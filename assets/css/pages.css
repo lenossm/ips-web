@@ -57,50 +57,73 @@
 	}
 }
 
-.site-nav .sub-menu {
-	display: none;
-	position: absolute;
-	top: calc(100% + 0.75rem);
-	left: 50%;
-	transform: translateX(-50%) translateY(10px);
-	min-width: 15rem;
-	padding: 0.85rem 0;
-	background: rgba(7, 8, 9, 0.96);
-	border: 1px solid var(--line);
-	list-style: none;
-	margin: 0;
-	backdrop-filter: blur(14px);
-	opacity: 0;
-	transition: opacity 0.35s var(--ease), transform 0.35s var(--ease);
-}
-
 .site-nav .has-children,
 .site-nav .menu-item-has-children {
 	position: relative;
+}
+
+/* invisible bridge so the mouse can reach the menu without it closing */
+.site-nav .has-children > a,
+.site-nav .menu-item-has-children > a {
+	display: inline-flex;
+	align-items: center;
+	padding-block: 1.1rem;
+	margin-block: -1.1rem;
+}
+
+.site-nav .sub-menu {
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	transform: translateX(-50%);
+	min-width: 15rem;
+	padding: 0.75rem 0;
+	margin: 0;
+	list-style: none;
+	background: #0c0e10;
+	border: 1px solid var(--line);
+	backdrop-filter: blur(14px);
+	opacity: 0;
+	visibility: hidden;
+	pointer-events: none;
+	z-index: 250;
+	transition: opacity 0.2s var(--ease), visibility 0.2s var(--ease);
+}
+
+.site-nav .sub-menu::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 100%;
+	height: 1.25rem;
 }
 
 .site-nav .has-children:hover > .sub-menu,
 .site-nav .has-children:focus-within > .sub-menu,
 .site-nav .menu-item-has-children:hover > .sub-menu,
 .site-nav .menu-item-has-children:focus-within > .sub-menu {
-	display: grid;
 	opacity: 1;
-	transform: translateX(-50%) translateY(0);
+	visibility: visible;
+	pointer-events: auto;
 }
 
 .site-nav .sub-menu a {
 	display: block;
-	padding: 0.5rem 1.1rem;
-	color: rgba(243, 241, 236, 0.75);
+	padding: 0.65rem 1.2rem;
+	color: rgba(243, 241, 236, 0.78);
 	font-size: 0.72rem;
 	letter-spacing: 0.1em;
 	text-transform: uppercase;
 	text-align: center;
-	transition: color 0.25s var(--ease), padding-left 0.25s var(--ease);
+	white-space: nowrap;
+	transition: color 0.2s var(--ease), background 0.2s var(--ease);
 }
 
-.site-nav .sub-menu a:hover {
+.site-nav .sub-menu a:hover,
+.site-nav .sub-menu a:focus-visible {
 	color: var(--snow);
+	background: rgba(243, 241, 236, 0.05);
 }
 
 .filter-bar {
@@ -199,8 +222,13 @@
 	text-align: center;
 	padding: clamp(1.35rem, 4vw, 2rem) clamp(0.85rem, 2.5vw, 1.25rem);
 	background: var(--ink);
-	min-height: clamp(9.5rem, 28vw, 11rem);
+	min-height: 11rem;
+	height: 100%;
 	color: inherit;
+	text-decoration: none;
+	opacity: 1;
+	transform: none;
+	filter: none;
 	transition:
 		background 0.45s var(--ease),
 		transform 0.45s var(--ease),
@@ -572,7 +600,7 @@
 
 @media (max-width: 699px) {
 	.brand-card {
-		min-height: auto;
+		min-height: 10.5rem;
 		padding: 1.5rem 1rem;
 	}
 

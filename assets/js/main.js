@@ -60,7 +60,7 @@
 			header.classList.add("is-open");
 			toggle.setAttribute("aria-expanded", "true");
 			mobileNav.hidden = false;
-			requestAnimationFrame(() => mobileNav.classList.add("is-visible"));
+			mobileNav.classList.add("is-visible");
 			document.body.style.overflow = "hidden";
 		};
 

@@ -139,6 +139,12 @@ def main() -> None:
         lambda b: (b.get("logo") or b.get("featured_image") or b.get("image") or "").replace("\\", "/"),
     )
 
+    before_posts = len(site.get("posts") or [])
+    site["posts"] = merge_items(
+        site.get("posts") or [],
+        lambda p: (p.get("image") or p.get("featured_image") or "").replace("\\", "/"),
+    )
+
     site["stats"] = {
         **(site.get("stats") or {}),
         "projects": len(site["projects"]),
@@ -149,6 +155,7 @@ def main() -> None:
     PATH.write_text(json.dumps(site, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"projects {before_p} -> {len(site['projects'])}")
     print(f"brands {before_b} -> {len(site['brands'])}")
+    print(f"posts {before_posts} -> {len(site['posts'])}")
 
 
 if __name__ == "__main__":

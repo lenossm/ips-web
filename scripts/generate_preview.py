@@ -214,13 +214,24 @@ def content_for(item: dict, lang: str) -> dict:
     return (item.get("content") or {}).get(lang) or (item.get("content") or {}).get("en") or (item.get("content") or {}).get("ka") or {}
 
 
+def has_georgian(text: str) -> bool:
+    return any("\u10a0" <= ch <= "\u10ff" for ch in (text or ""))
+
+
 def title_for(item: dict, lang: str, fallback: bool = True) -> str:
     titles = item.get("title") or {}
-    if titles.get(lang):
-        return titles[lang]
-    if not fallback:
-        return ""
-    return titles.get("en") or titles.get("ka") or item.get("slug") or ""
+    ka = (titles.get("ka") or "").strip()
+    en = (titles.get("en") or "").strip()
+    ka_best = ka if has_georgian(ka) else (en if has_georgian(en) else ka)
+    en_best = en if en and not has_georgian(en) else (ka if ka and not has_georgian(ka) else en)
+
+    if lang == "ka":
+        if ka_best:
+            return ka_best
+        return en_best if fallback else ""
+    if en_best:
+        return en_best
+    return ka_best if fallback else ""
 
 
 def project_card(p: dict, lang: str) -> str:
@@ -551,11 +562,12 @@ def about_page(lang: str) -> str:
 
 def news_page(lang: str) -> str:
     title = "სიახლე და ბლოგი" if lang == "ka" else "News & Blog"
-    cards = [post_card(p, lang) for p in SITE.get("posts", []) if title_for(p, lang, fallback=False)]
+    cards = [post_card(p, lang) for p in SITE.get("posts", []) if title_for(p, lang, fallback=True)]
+    cards = [c for c in cards if c]
     body = f"""
 <div class="page-hero"><div class="container"><h1 class="page-hero__title">{e(title)}</h1>
-<p class="page-hero__lead">{sum(1 for c in cards if c)} {'სტატია' if lang=='ka' else 'articles'}</p></div></div>
-<div class="container content-wrap post-list">{''.join(c for c in cards if c)}</div>
+<p class="page-hero__lead">{len(cards)} {'სტატია' if lang=='ka' else 'articles'}</p></div></div>
+<div class="container content-wrap post-list">{''.join(cards)}</div>
 """
     return shell(lang, title, body, "news")
 
