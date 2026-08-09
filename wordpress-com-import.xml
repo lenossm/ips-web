@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a WordPress eXtended RSS file generated as a WXR for import -->
+<!-- generator="WordPress/6.7" created="2026-07-26 12:00" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+	<title>IPS</title>
+	<link>https://ips.ge</link>
+	<description>IPS website</description>
+	<pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+	<language>ka</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://ips.ge</wp:base_site_url>
+	<wp:base_blog_url>https://ips.ge</wp:base_blog_url>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[leno]]></wp:author_login><wp:author_email><![CDATA[leno@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Leno]]></wp:author_display_name><wp:author_first_name><![CDATA[Leno]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<item>
+		<title>მთავარი — IPS</title>
+		<link>https://ips.ge/home/</link>
+		<pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[leno]]></dc:creator>
+		<guid isPermaLink="false">https://ips.ge/?page_id=2001</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"dimRatio":60,"overlayColor":"black","minHeight":80,"minHeightUnit":"vh","align":"full"} -->
+<div class="wp-block-cover alignfull" style="min-height:80vh"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>IPS · 2016-დან</strong></p>
+<!-- /wp:paragraph --><!-- wp:heading {"textAlign":"center","level":1} -->
+<h1 class="wp-block-heading has-text-align-center">სამშენებლო სერვისები &amp; მასალები</h1>
+<!-- /wp:heading --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ინტერიერი და ფასადი — ცოდნით დაწყებული, ოსტატობით დასრულებული.</p>
+<!-- /wp:paragraph --><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/projects/">ნახეთ ჩვენი პროექტები</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:columns {"align":"full"} -->
+<div class="wp-block-columns alignfull"><!-- wp:column {"style":{"spacing":{"padding":{"top":"2rem","bottom":"2rem","left":"1.5rem","right":"1.5rem"}},"color":{"background":"#2b3036","text":"#ffffff"}}} -->
+<div class="wp-block-column has-text-color has-background" style="color:#ffffff;background-color:#2b3036;padding-top:2rem;padding-right:1.5rem;padding-bottom:2rem;padding-left:1.5rem"><!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">ინტერიერის მასალები და სერვისები</h2>
+<!-- /wp:heading --><!-- wp:paragraph -->
+<p>შერჩევა | მიწოდება | მონტაჟი</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --><!-- wp:column {"style":{"spacing":{"padding":{"top":"2rem","bottom":"2rem","left":"1.5rem","right":"1.5rem"}},"color":{"background":"#1d242c","text":"#ffffff"}}} -->
+<div class="wp-block-column has-text-color has-background" style="color:#ffffff;background-color:#1d242c;padding-top:2rem;padding-right:1.5rem;padding-bottom:2rem;padding-left:1.5rem"><!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">საფასადო მასალები და სერვისები</h2>
+<!-- /wp:heading --><!-- wp:paragraph -->
+<p>პროექტირება | მიწოდება | მონტაჟი</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">IPS-ში ყველა პროექტს ვიწყებთ და ვასრულებთ ცოდნით.</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>IPS-ში ვიცით, რომ პროექტების სწორად დაგეგმარებას პროცესების და მასალების სიღრმისეული ცოდნა განაპირობებს. სინამდვილეში, ნებისმიერი სამშენებლო პროდუქტი მხოლოდ მასალაა, რომელიც ხარისხის და ფასის მიუხედავად შეიძლება იყოს სწორად ან არასწორად გამოყენებული. ნაშენების Ხარისხს განსაზღვარვს კვალიფიკაცია და არა მხოლოდ მასალის ფასი.</p>
+<!-- /wp:paragraph -->
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>01</strong></p>
+<!-- /wp:paragraph --><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ოსტატობა</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>02</strong></p>
+<!-- /wp:paragraph --><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">თავდაჯერებულობა</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>03</strong></p>
+<!-- /wp:paragraph --><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ცნობისმოყვარეობა</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>04</strong></p>
+<!-- /wp:paragraph --><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">სიზუსტე</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">შერჩეული პროექტები</h2>
+<!-- /wp:heading -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2025/06/ips.ge_aka-development-1024x576.jpg" alt="Aka Development (Residential complex in Didi Digomi)"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Aka Development (Residential complex in Didi Digomi)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/07/aka-development-dighomi-1024x768.jpg" alt="Aka Development (Residential complex in Dighomi)"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Aka Development (Residential complex in Dighomi)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns --><!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/07/alliance-highline-1024x906.png" alt="Alliance Highline"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>interior</strong><br>Alliance Highline</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/ips.ge_archi-isani-c-block-1024x566.jpg" alt="არქი ისანი C ბლოკი"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>არქი ისანი C ბლოკი</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns --><!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/arqi-isani-d-1024x711.jpg" alt="Archi Isani D Block"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Archi Isani D Block</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/11/archi-rivertown-1024x698.jpg" alt="Archi Rivertown"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Archi Rivertown</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns --><!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/ips.ge_archi-saburtalo-b-block-1024x566.jpg" alt="Archi Saburtalo B block"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Archi Saburtalo B block</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/ips.ge_archi-saburtalo-c-block-1024x566.jpg" alt="Archi Saburtalo C block"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Archi Saburtalo C block</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">კონტაქტი</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>თბილისი, ჭავჭავაძის გამზ. 49დ<br>+995 32 225 24 24<br>info@ips.ge</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2001</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-26 12:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-26 12:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-26 12:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-26 12:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title>სერვისები</title>
+		<link>https://ips.ge/services/</link>
+		<pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[leno]]></dc:creator>
+		<guid isPermaLink="false">https://ips.ge/?page_id=2002</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">სერვისები</h1>
+<!-- /wp:heading -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">IPS ინტერიერი</h2>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ინტერიერის საკონსულტაციო მომსახურება</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>დამკვეთს ვთავაზობთ პროექტის შესაბამისი პროდუქციის და ბიუჯეტის რამდენიმე ვერსიას</li><li>კონსულტაციას ვუწევთ ტექნიკურ საკითხებზე. საჭიროების შემთხვევაში, ვაკეთებთ ბიუჯეტის ოპტიმიზაციასაც</li></ul>
+<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ინტერიერის მასალების მიწოდება</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>დამკვეთს ვთავაზობთ შერჩეული პროდუქციის ბიუჯეტირებას და ალტერნატიულ ვერსიებს</li><li>პროდუქციის შერჩევის შემდეგ ვათანხმებთ ვადებს და ხელშეკრულების პირობებს</li><li>ჩვენს პარტნიორ კომპანიასთან მასალების შეკვეთის პარალელურად ხაზზე ვართ დამკვეთთან და სურვილის შემთხვევაში, ტექნიკურ საკითხებზეც ვუზიარებთ რეკომენდაციებს</li></ul>
+<!-- /wp:list -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">IPS ფასადი</h2>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ფასადის პროექტირება</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>არქიტექტორის მიერ მოწოდებული რენდერის და ნახაზების მიხედვით ჩვენი ინჟინრები ამზადებენ დეტალურ კვანძებს და ტექნიკურ გადაწყვეტებს</li><li>პროექტის ინჟინერიის პროცესში ვითვალისწინებთ კლიმატურ პირობებს – ქარის დატვირთვა, წყლის შეღწევადობა, ტემპერატურული ცვლილებები და სხვა. ასევე, ყურადღებას ვაქცევთ მასალების თავისებურებებს და დანახარჯების ოპტიმიზაციას</li><li>სამუშაო პროცესს ვუწევთ ზედამხედველობას, რათა ყველა დეტალი პროექტის მიხედვით იყოს შესრულებული</li></ul>
+<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">საფასადე მასალების მიწოდება</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>პროექტის ვიზუალის/არქიტექტურის შესაბამისად დამკვეთს ვთავაზობთ საფასადო-მოსაპირკეთებელი მასალების რამდენიმე ვერსიას</li><li>ვათანხმებთ შერჩეული მასალების მიწოდების ვადებს და ხელშეკრულების პირობებს</li><li>ვუკვეთავთ მასალებს ჩვენს პარტნიორ კომპანიას. ვაკონტროლებთ, რომ წარმოება და ტრანსპორტირება დროულად მოხდეს</li></ul>
+<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">საფასადე მასალების მონტაჟი</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>შეთანხმებული პროექტის მიხედვით ვასრულებთ სამონტაჟო მომსახურებას</li><li>სამუშაო პროცესში დამკვეთთან გვაქვს მუდმივი კომუნიკაცია და რეპორტინგი</li><li>სამუშაოებს ასრულებენ ჩვენი გამოცდილი და სერტიფიცირებული პროფესიონალები. ისინი ფასადის მონტაჟისას თანამედროვე იარაღებს და ტექნოლოგიებს იყენებენ, რაც ფასადს ხარისხს და გამძლეობას უნარჩუნებს</li><li>ჩვენ მიერ შესრულებულ სამუშაოებზე გვაქვს 5-წლიანი საგარანტიო პერიოდი</li></ul>
+<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">სამშენებლო მასალების მიწოდება</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>პირველ რიგში, ვამოწმებთ პროექტის დეტალებს და მოთხოვნებს, რათა სწორად განვსაზღვროთ საჭიროებები</li><li>პროექტის შესაბამისად დამკვეთს ვთავაზობთ მასალების რამდენიმე ვერსიას და ბიუჯეტს, ასევე ტექნიკურ გადაწყვეტილებებს</li><li>ვათანხმებთ მიწოდების ვადებს და ხელშეკრულების პირობებს</li><li>მსხვილი პროექტების შემთხვევაში, საჭიროებიდან გამომდინარე, ხდება შერჩეული მასალის მწარმოებელი კომპანიის წარმომადგენლის ჩართვა, რათა ყველა ტექნიკური დეტალი სწორად იყოს გათვლილი</li><li>პროდუქციის მიწოდების შემდეგ ჩვენი მხრიდან ხდება პერიოდული მონიტორინგი, რათა დავრწმუნდეთ, რომ პროდუქციის შენახვა-დასაწყობება და გამოყენება სწორად ხდება. ასევე, სურვილის შემთხვევაში ხდება თეორიული და პრაქტიკული ცოდნის გაზიარება პროექტის დასრულებამდე.</li></ul>
+<!-- /wp:list -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2002</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-26 12:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-26 12:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-26 12:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-26 12:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[services]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title>პროექტები</title>
+		<link>https://ips.ge/projects/</link>
+		<pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[leno]]></dc:creator>
+		<guid isPermaLink="false">https://ips.ge/?page_id=2003</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">პროექტები</h1>
+<!-- /wp:heading -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2025/06/ips.ge_aka-development-1024x576.jpg" alt="Aka Development (Residential complex in Didi Digomi)"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Aka Development (Residential complex in Didi Digomi)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/07/aka-development-dighomi-1024x768.jpg" alt="Aka Development (Residential complex in Dighomi)"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Aka Development (Residential complex in Dighomi)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/07/alliance-highline-1024x906.png" alt="Alliance Highline"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>interior</strong><br>Alliance Highline</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/ips.ge_archi-isani-c-block-1024x566.jpg" alt="არქი ისანი C ბლოკი"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>არქი ისანი C ბლოკი</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/arqi-isani-d-1024x711.jpg" alt="Archi Isani D Block"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Archi Isani D Block</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/11/archi-rivertown-1024x698.jpg" alt="Archi Rivertown"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Archi Rivertown</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/ips.ge_archi-saburtalo-b-block-1024x566.jpg" alt="Archi Saburtalo B block"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Archi Saburtalo B block</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/ips.ge_archi-saburtalo-c-block-1024x566.jpg" alt="Archi Saburtalo C block"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Archi Saburtalo C block</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/ips.ge_archi-saburtalo-d-block-1024x566.jpg" alt="არქი საბურთალო D ბლოკი"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>არქი საბურთალო D ბლოკი</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/arqi-varketili-d-1024x698.jpeg" alt="Archi Varketeli D block"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Archi Varketeli D block</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/ips.ge_saray.png" alt="Archi Varketli A block"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Archi Varketli A block</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/ips.ge_saray.png" alt="Archi Varketli II block"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Archi Varketli II block</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/ips.ge_arqturi-1024x566.jpg" alt="Arctur"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Arctur</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/11/ips.ge_atlas_concorde.png" alt="Armani store in Tbilisi"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>interior</strong><br>Armani store in Tbilisi</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2025/07/ips.ge_bathumis-n12-sabavshvo-baghi-1024x566.jpg" alt="Batumi Kindergarten No. 12"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Batumi Kindergarten No. 12</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2025/07/ips.ge_bathumis-n26-sabavshvo-baghi-1024x566.jpg" alt="Batumi Kindergarten No. 26"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Batumi Kindergarten No. 26</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2025/07/ips.ge_bathumis-n3-sabavshvo-baghi-1024x566.jpg" alt="Batumi Kindergarten No. 3"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Batumi Kindergarten No. 3</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://ips.ge/wp-content/uploads/2024/06/batumi-clinic.png" alt="Batumi Republican Clinical Hospital"/></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p><strong>facade</strong><br>Batumi Republican Clinical Hospital</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2003</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-26 12:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-26 12:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-26 12:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-26 12:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[projects]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title>ბრენდები</title>
+		<link>https://ips.ge/brands/</link>
+		<pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[leno]]></dc:creator>
+		<guid isPermaLink="false">https://ips.ge/?page_id=2004</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">ბრენდები</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>44 ბრენდი</p>
+<!-- /wp:paragraph -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ABET LAMINATI</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ALPOLIC</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ALTERNATIVA</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ALTERNATIVE</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">APPIANI</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ARGETON</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ATLAS CONCORDE</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">BRALO</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">BS (Building Solutions)</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">BTS</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">CEDRAL</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">CERAMICA VOGUE</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">DESIGN PARQUET</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">EJOT</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">EQUITONE</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">GEESA</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">GENTAS</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">HAKWOOD</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">HANSGROHE</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">IDEAL STANDARD</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">KALDEWEI</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">KASSO</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">KERLITE</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">KLEIDCO</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2004</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-26 12:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-26 12:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-26 12:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-26 12:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[brands]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title>ჩვენ შესახებ</title>
+		<link>https://ips.ge/about-us/</link>
+		<pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[leno]]></dc:creator>
+		<guid isPermaLink="false">https://ips.ge/?page_id=2005</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">ჩვენ შესახებ</h1>
+<!-- /wp:heading -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">მისია და ხედვა</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>IPS-ში ვიცით, რომ პროექტების სწორად დაგეგმარებას პროცესების და მასალების სიღრმისეული ცოდნა განაპირობებს.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>სინამდვილეში, ნებისმიერი სამშენებლო პროდუქტი მხოლოდ მასალაა, რომელიც ხარისხის და ფასის მიუხედავად შეიძლება იყოს სწორად ან არასწორად გამოყენებული. ნაშენების Ხარისხს განსაზღვარვს კვალიფიკაცია და არა მხოლოდ მასალის ფასი.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>IPS-ში ყველა პროექტს ვიწყებთ და ვასრულებთ ცოდნით.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">ისტორია</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong>2016 — IPS ინტერიერი</strong><br>კომპანია IPS-მა ინტერიერის მიმართულებით 2016 წელს დაიწყო საქმიანობა</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><strong>2019 — IPS ფასადი</strong><br>2019 წელს შეემატა ფასადების მიმართულებაც</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">გუნდი და კარიერა</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>IPS-ის მთავარი სიძლიერე მის გუნდშია. Ჩვენ ყურადღებით ვარჩევთ გუნდის წევრებს, შემდეგ კი გულდასმით ვზრუნავთ მათ სწავლებაზე, განვითარებაზე და საქმის ოსტატებად ჩამოყალიბებაზე.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>IPS-ის გუნდში ყველა ვიზიარებთ საერთო ღირებულებებს და პროექტების უზადოდ შესრულებაშიც სწორად ეს გვეხმარება.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>თუკი ჩვენი საქმიანობის სფერო შენთვის საინტერესოა და ჩვენი ღირებულებები შენს უნარ-ჩვევებს შეესაბამება, Მაშინ დაათვალიერე ჩვენი ვაკანსიები ან შეავსე განაცხადის ფორმა.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">სოციალური პასუხისმგებლობა</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>IPS-ის კორპორატიული სოციალური პასუხისმგებლობა მოიცავს სამშენებლო, კერძოდ კი, საფასადე და ინტერიერის მოპირკეთებასთან დაკავშირებული ცოდნის პოპულარიზაციას, მხარდაჭერას და გავრცელებას. ამ მიმართულებით კომპანიას არაერთი გეგმა აქვს, რომლებსაც ეტაპობრივად განახორციელებს.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>კომპანიის CSR აქტივობის მიზანია, ხელი შეუწყოს იმ ინდუსტრიის და ზოგადად, გარემოს განვითარებას და გაუმჯობესებას, რომელშიც ის ოპერირებს.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">კონტაქტი</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>თბილისი, ჭავჭავაძის გამზ. 49დ<br><a href="tel:+995322252424">+995 32 225 24 24</a><br><a href="mailto:info@ips.ge">info@ips.ge</a></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2005</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-26 12:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-26 12:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-26 12:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-26 12:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+</channel>
+</rss>

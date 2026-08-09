@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2a323a"/>
+      <stop offset="55%" stop-color="#4a433c"/>
+      <stop offset="100%" stop-color="#1a1e22"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8a8176" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#3a3530" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <g opacity="0.9">
+    <rect x="180" y="80" width="220" height="720" fill="url(#panel)"/>
+    <rect x="420" y="40" width="260" height="760" fill="url(#panel)" opacity="0.85"/>
+    <rect x="700" y="120" width="200" height="680" fill="url(#panel)"/>
+    <rect x="920" y="60" width="280" height="740" fill="url(#panel)" opacity="0.75"/>
+    <rect x="1220" y="100" width="240" height="700" fill="url(#panel)"/>
+  </g>
+  <g stroke="#f2f1ee" stroke-opacity="0.08" fill="none">
+    <path d="M180 200h1280M180 360h1280M180 520h1280M180 680h1280"/>
+    <path d="M300 80v720M550 40v760M800 120v680M1060 60v740M1340 100v700"/>
+  </g>
+  <rect x="0" y="0" width="1600" height="900" fill="#a06d42" opacity="0.08"/>
+</svg>

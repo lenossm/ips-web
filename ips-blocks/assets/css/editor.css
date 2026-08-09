@@ -1,0 +1,9 @@
+/* Light polish inside the block editor */
+.editor-styles-wrapper {
+	font-family: "Noto Sans Georgian", "Noto Sans", system-ui, sans-serif;
+}
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3 {
+	font-family: "Noto Serif Georgian", "Noto Serif", Georgia, serif;
+}

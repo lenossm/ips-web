@@ -1,0 +1,209 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "useRootPaddingAwareAlignments": true,
+    "layout": {
+      "contentSize": "760px",
+      "wideSize": "1180px"
+    },
+    "color": {
+      "palette": [
+        {
+          "slug": "ink",
+          "name": "Ink",
+          "color": "#121416"
+        },
+        {
+          "slug": "ink-soft",
+          "name": "Ink Soft",
+          "color": "#2a2e33"
+        },
+        {
+          "slug": "paper",
+          "name": "Paper",
+          "color": "#e9e7e2"
+        },
+        {
+          "slug": "surface",
+          "name": "Surface",
+          "color": "#f2f1ee"
+        },
+        {
+          "slug": "stone",
+          "name": "Stone",
+          "color": "#c9c5be"
+        },
+        {
+          "slug": "copper",
+          "name": "Copper",
+          "color": "#a06d42"
+        },
+        {
+          "slug": "copper-bright",
+          "name": "Copper Bright",
+          "color": "#c48a55"
+        },
+        {
+          "slug": "white",
+          "name": "White",
+          "color": "#ffffff"
+        }
+      ],
+      "defaultPalette": false,
+      "defaultGradients": false
+    },
+    "typography": {
+      "fontFamilies": [
+        {
+          "fontFamily": "\"Noto Serif Georgian\", \"Noto Serif\", Georgia, serif",
+          "name": "Display",
+          "slug": "display"
+        },
+        {
+          "fontFamily": "\"Noto Sans Georgian\", \"Noto Sans\", system-ui, sans-serif",
+          "name": "Body",
+          "slug": "body"
+        }
+      ],
+      "fontSizes": [
+        {
+          "slug": "small",
+          "size": "0.9rem",
+          "name": "Small"
+        },
+        {
+          "slug": "medium",
+          "size": "1.05rem",
+          "name": "Medium"
+        },
+        {
+          "slug": "large",
+          "size": "1.5rem",
+          "name": "Large"
+        },
+        {
+          "slug": "x-large",
+          "size": "2.25rem",
+          "name": "Extra Large"
+        },
+        {
+          "slug": "xx-large",
+          "size": "3.5rem",
+          "name": "Huge"
+        }
+      ]
+    },
+    "spacing": {
+      "spacingSizes": [
+        {
+          "slug": "30",
+          "size": "1rem",
+          "name": "1"
+        },
+        {
+          "slug": "40",
+          "size": "1.5rem",
+          "name": "2"
+        },
+        {
+          "slug": "50",
+          "size": "2.5rem",
+          "name": "3"
+        },
+        {
+          "slug": "60",
+          "size": "4rem",
+          "name": "4"
+        },
+        {
+          "slug": "70",
+          "size": "6rem",
+          "name": "5"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "var(--wp--preset--color--surface)",
+      "text": "var(--wp--preset--color--ink)"
+    },
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--body)",
+      "fontSize": "var(--wp--preset--font-size--medium)",
+      "lineHeight": "1.65"
+    },
+    "elements": {
+      "heading": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--display)",
+          "fontWeight": "600",
+          "lineHeight": "1.2"
+        }
+      },
+      "link": {
+        "color": {
+          "text": "var(--wp--preset--color--ink)"
+        },
+        ":hover": {
+          "color": {
+            "text": "var(--wp--preset--color--copper)"
+          }
+        }
+      },
+      "button": {
+        "border": {
+          "radius": "0"
+        },
+        "color": {
+          "background": "var(--wp--preset--color--ink)",
+          "text": "var(--wp--preset--color--paper)"
+        },
+        "typography": {
+          "fontWeight": "600"
+        },
+        "spacing": {
+          "padding": {
+            "top": "0.85rem",
+            "bottom": "0.85rem",
+            "left": "1.35rem",
+            "right": "1.35rem"
+          }
+        }
+      }
+    },
+    "blocks": {
+      "core/site-title": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--display)",
+          "fontWeight": "700",
+          "fontSize": "1.35rem",
+          "letterSpacing": "0.06em"
+        }
+      }
+    }
+  },
+  "templateParts": [
+    {
+      "name": "header",
+      "title": "Header",
+      "area": "header"
+    },
+    {
+      "name": "footer",
+      "title": "Footer",
+      "area": "footer"
+    }
+  ],
+  "customTemplates": [
+    {
+      "name": "blank",
+      "title": "Blank (patterns only)",
+      "postTypes": [
+        "page"
+      ]
+    }
+  ]
+}

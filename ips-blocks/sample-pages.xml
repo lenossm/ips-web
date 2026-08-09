@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+	<title>IPS Blocks sample pages</title>
+	<link>https://ips.ge/</link>
+	<description>IPS pages</description>
+	<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+	<language>ka</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://ips.ge/</wp:base_site_url>
+	<wp:base_blog_url>https://ips.ge/</wp:base_blog_url>
+	
+		<item>
+			<title>მთავარი / Home (KA)</title>
+			<link>https://ips.ge/home-ka/</link>
+			<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://ips.ge/?page_id=1001</guid>
+			<description></description>
+			<content:encoded><![CDATA[
+<!-- wp:cover {"dimRatio":70,"overlayColor":"ink","minHeight":92,"minHeightUnit":"vh","align":"full","style":{"spacing":{"padding":{"top":"7rem","bottom":"5rem","left":"1.5rem","right":"1.5rem"}}}} -->
+<div class="wp-block-cover alignfull" style="padding-top:7rem;padding-right:1.5rem;padding-bottom:5rem;padding-left:1.5rem;min-height:92vh"><span aria-hidden="true" class="wp-block-cover__background has-ink-background-color has-background-dim-70 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:group {"layout":{"type":"constrained","contentSize":"42rem"},"style":{"spacing":{"blockGap":"1.1rem"}}} -->
+<div class="wp-block-group">
+<!-- wp:paragraph {"style":{"typography":{"letterSpacing":"0.12em","textTransform":"uppercase","fontWeight":"700"},"color":{"text":"#c48a55"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#c48a55;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">IPS · 2016-დან</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"textColor":"paper","fontSize":"xx-large","fontFamily":"display"} -->
+<h1 class="wp-block-heading has-paper-color has-text-color has-xx-large-font-size has-display-font-family">სამშენებლო სერვისები &amp; მასალები</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"paper"} -->
+<p class="has-paper-color has-text-color">ინტერიერი და ფასადი — ცოდნით დაწყებული, ოსტატობით დასრულებული.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"blockGap":"0.75rem"}}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"paper","textColor":"ink"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-ink-color has-paper-background-color has-text-color has-background wp-element-button" href="/projects/">ნახეთ ჩვენი პროექტები</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline","textColor":"paper"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-paper-color has-text-color wp-element-button" href="/services/">სერვისები</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div></div>
+<!-- /wp:cover -->
+
+
+<!-- wp:columns {"align":"full","style":{"spacing":{"blockGap":{"left":"0"}}}} -->
+<div class="wp-block-columns alignfull">
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"4rem","bottom":"3rem","left":"1.5rem","right":"1.5rem"}},"color":{"background":"#2b3036"}}} -->
+<div class="wp-block-column has-background" style="background-color:#2b3036;padding-top:4rem;padding-right:1.5rem;padding-bottom:3rem;padding-left:1.5rem">
+<!-- wp:paragraph {"style":{"color":{"text":"#c48a55"},"typography":{"textTransform":"uppercase","letterSpacing":"0.14em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#c48a55;font-weight:700;letter-spacing:0.14em;text-transform:uppercase">IPS ინტერიერი</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":2,"textColor":"paper","fontFamily":"display"} -->
+<h2 class="wp-block-heading has-paper-color has-text-color has-display-font-family">ინტერიერის მასალები და სერვისები</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"textColor":"paper"} -->
+<p class="has-paper-color has-text-color">შერჩევა | მიწოდება | მონტაჟი</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><a href="/services/#interior" style="color:#e9e7e2">ნახეთ ჩვენი პროექტები →</a></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"4rem","bottom":"3rem","left":"1.5rem","right":"1.5rem"}},"color":{"background":"#1d242c"}}} -->
+<div class="wp-block-column has-background" style="background-color:#1d242c;padding-top:4rem;padding-right:1.5rem;padding-bottom:3rem;padding-left:1.5rem">
+<!-- wp:paragraph {"style":{"color":{"text":"#c48a55"},"typography":{"textTransform":"uppercase","letterSpacing":"0.14em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#c48a55;font-weight:700;letter-spacing:0.14em;text-transform:uppercase">IPS ფასადი</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":2,"textColor":"paper","fontFamily":"display"} -->
+<h2 class="wp-block-heading has-paper-color has-text-color has-display-font-family">საფასადო მასალები და სერვისები</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"textColor":"paper"} -->
+<p class="has-paper-color has-text-color">პროექტირება | მიწოდება | მონტაჟი</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><a href="/services/#facade" style="color:#e9e7e2">ნახეთ ჩვენი პროექტები →</a></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"1.5rem","right":"1.5rem"}},"color":{"background":"#e9e7e2"}},"layout":{"type":"constrained","wideSize":"1180px"}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#e9e7e2;padding-top:5rem;padding-right:1.5rem;padding-bottom:5rem;padding-left:1.5rem">
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"3rem"}}} } -->
+<div class="wp-block-columns">
+<!-- wp:column {"width":"58%"} -->
+<div class="wp-block-column" style="flex-basis:58%">
+<!-- wp:heading {"fontFamily":"display","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size has-display-font-family">IPS-ში ყველა პროექტს ვიწყებთ და ვასრულებთ ცოდნით.</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>IPS-ში ვიცით, რომ პროექტების სწორად დაგეგმარებას პროცესების და მასალების სიღრმისეული ცოდნა განაპირობებს. სინამდვილეში, ნებისმიერი სამშენებლო პროდუქტი მხოლოდ მასალაა, რომელიც ხარისხის და ფასის მიუხედავად შეიძლება იყოს სწორად ან არასწორად გამოყენებული. ნაშენების Ხარისხს განსაზღვარვს კვალიფიკაცია და არა მხოლოდ მასალის ფასი.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><a href="/about-us/">ჩვენ შესახებ →</a></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"42%"} -->
+<div class="wp-block-column" style="flex-basis:42%">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"fontWeight":"700","letterSpacing":"0.1em"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em">01</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">ოსტატობა</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"fontWeight":"700","letterSpacing":"0.1em"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em">02</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">თავდაჯერებულობა</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"fontWeight":"700","letterSpacing":"0.1em"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em">03</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">ცნობისმოყვარეობა</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"fontWeight":"700","letterSpacing":"0.1em"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em">04</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">სიზუსტე</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"4rem","bottom":"4rem"},"blockGap":"1.5rem}},"layout":{"type":"constrained","wideSize":"1180px"}} -->
+<div class="wp-block-group alignwide" style="padding-top:4rem;padding-bottom:4rem">
+<!-- wp:heading {"fontFamily":"display","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size has-display-font-family">შერჩეული პროექტები</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>141 პროექტი</p>
+<!-- /wp:paragraph -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_aka-development-1024x576.jpg" alt="Aka Development (Residential complex in Didi Digomi)"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Aka Development (Residential complex in Didi Digomi)</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/aka-development-dighomi-1024x768.jpg" alt="Aka Development (Residential complex in Dighomi)"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Aka Development (Residential complex in Dighomi)</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/alliance-highline-1024x906.png" alt="Alliance Highline"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">interior</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Alliance Highline</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_archi-isani-c-block-1024x566.jpg" alt="არქი ისანი C ბლოკი"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">არქი ისანი C ბლოკი</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/arqi-isani-d-1024x711.jpg" alt="Archi Isani D Block"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Archi Isani D Block</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/archi-rivertown-1024x698.jpg" alt="Archi Rivertown"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Archi Rivertown</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_archi-saburtalo-b-block-1024x566.jpg" alt="Archi Saburtalo B block"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Archi Saburtalo B block</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_archi-saburtalo-c-block-1024x566.jpg" alt="Archi Saburtalo C block"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Archi Saburtalo C block</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons">
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/projects/">ყველა პროექტი</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4.5rem","bottom":"4.5rem","left":"1.5rem","right":"1.5rem"}},"color":{"background":"#1a1e23"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#1a1e23;padding-top:4.5rem;padding-right:1.5rem;padding-bottom:4.5rem;padding-left:1.5rem">
+<!-- wp:heading {"textColor":"paper","fontFamily":"display","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-paper-color has-text-color has-x-large-font-size has-display-font-family">დაგვიკავშირდით</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"textColor":"paper"} -->
+<p class="has-paper-color has-text-color">თბილისი, ჭავჭავაძის გამზ. 49დ · +995 32 225 24 24</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"paper","textColor":"ink"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-ink-color has-paper-background-color has-text-color has-background wp-element-button" href="/about-us/#contact">კონტაქტი</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+]]></content:encoded>
+			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<wp:post_id>1001</wp:post_id>
+			<wp:post_date>2026-07-26 00:00:00</wp:post_date>
+			<wp:post_date_gmt>2026-07-26 00:00:00</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status>closed</wp:ping_status>
+			<wp:post_name>home-ka</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+		</item>
+		<item>
+			<title>Home (EN)</title>
+			<link>https://ips.ge/home-en/</link>
+			<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://ips.ge/?page_id=1002</guid>
+			<description></description>
+			<content:encoded><![CDATA[
+<!-- wp:cover {"dimRatio":70,"overlayColor":"ink","minHeight":92,"minHeightUnit":"vh","align":"full","style":{"spacing":{"padding":{"top":"7rem","bottom":"5rem","left":"1.5rem","right":"1.5rem"}}}} -->
+<div class="wp-block-cover alignfull" style="padding-top:7rem;padding-right:1.5rem;padding-bottom:5rem;padding-left:1.5rem;min-height:92vh"><span aria-hidden="true" class="wp-block-cover__background has-ink-background-color has-background-dim-70 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:group {"layout":{"type":"constrained","contentSize":"42rem"},"style":{"spacing":{"blockGap":"1.1rem"}}} -->
+<div class="wp-block-group">
+<!-- wp:paragraph {"style":{"typography":{"letterSpacing":"0.12em","textTransform":"uppercase","fontWeight":"700"},"color":{"text":"#c48a55"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#c48a55;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">IPS · Since 2016</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"textColor":"paper","fontSize":"xx-large","fontFamily":"display"} -->
+<h1 class="wp-block-heading has-paper-color has-text-color has-xx-large-font-size has-display-font-family">Building Services &amp; Materials</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"paper"} -->
+<p class="has-paper-color has-text-color">Interior and facade — started with knowledge, finished with mastery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"blockGap":"0.75rem"}}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"paper","textColor":"ink"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-ink-color has-paper-background-color has-text-color has-background wp-element-button" href="/projects/">See our projects</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline","textColor":"paper"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-paper-color has-text-color wp-element-button" href="/services/">Services</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div></div>
+<!-- /wp:cover -->
+
+
+<!-- wp:columns {"align":"full","style":{"spacing":{"blockGap":{"left":"0"}}}} -->
+<div class="wp-block-columns alignfull">
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"4rem","bottom":"3rem","left":"1.5rem","right":"1.5rem"}},"color":{"background":"#2b3036"}}} -->
+<div class="wp-block-column has-background" style="background-color:#2b3036;padding-top:4rem;padding-right:1.5rem;padding-bottom:3rem;padding-left:1.5rem">
+<!-- wp:paragraph {"style":{"color":{"text":"#c48a55"},"typography":{"textTransform":"uppercase","letterSpacing":"0.14em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#c48a55;font-weight:700;letter-spacing:0.14em;text-transform:uppercase">IPS Interior</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":2,"textColor":"paper","fontFamily":"display"} -->
+<h2 class="wp-block-heading has-paper-color has-text-color has-display-font-family">Interior materials and services</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"textColor":"paper"} -->
+<p class="has-paper-color has-text-color">Selection | Delivery | Installation</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><a href="/services/#interior" style="color:#e9e7e2">See our projects →</a></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"4rem","bottom":"3rem","left":"1.5rem","right":"1.5rem"}},"color":{"background":"#1d242c"}}} -->
+<div class="wp-block-column has-background" style="background-color:#1d242c;padding-top:4rem;padding-right:1.5rem;padding-bottom:3rem;padding-left:1.5rem">
+<!-- wp:paragraph {"style":{"color":{"text":"#c48a55"},"typography":{"textTransform":"uppercase","letterSpacing":"0.14em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#c48a55;font-weight:700;letter-spacing:0.14em;text-transform:uppercase">IPS Facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":2,"textColor":"paper","fontFamily":"display"} -->
+<h2 class="wp-block-heading has-paper-color has-text-color has-display-font-family">Facade materials and services</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"textColor":"paper"} -->
+<p class="has-paper-color has-text-color">Projecting | Delivery | Installation</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><a href="/services/#facade" style="color:#e9e7e2">See our projects →</a></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"1.5rem","right":"1.5rem"}},"color":{"background":"#e9e7e2"}},"layout":{"type":"constrained","wideSize":"1180px"}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#e9e7e2;padding-top:5rem;padding-right:1.5rem;padding-bottom:5rem;padding-left:1.5rem">
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"3rem"}}} } -->
+<div class="wp-block-columns">
+<!-- wp:column {"width":"58%"} -->
+<div class="wp-block-column" style="flex-basis:58%">
+<!-- wp:heading {"fontFamily":"display","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size has-display-font-family">At IPS, we start and finish every project with knowledge.</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>At IPS, we know that proper project planning depends on in-depth knowledge of processes and materials. In fact, any construction product is just a material, which, regardless of quality and price, can be used correctly or incorrectly. The quality of the buildings is determined by the qualification and not only the price of the material.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><a href="/about-us/">About us →</a></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"42%"} -->
+<div class="wp-block-column" style="flex-basis:42%">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"fontWeight":"700","letterSpacing":"0.1em"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em">01</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Mastery</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"fontWeight":"700","letterSpacing":"0.1em"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em">02</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Confidence</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"fontWeight":"700","letterSpacing":"0.1em"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em">03</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Curiosity</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"fontWeight":"700","letterSpacing":"0.1em"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em">04</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Accuracy</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"4rem","bottom":"4rem"},"blockGap":"1.5rem}},"layout":{"type":"constrained","wideSize":"1180px"}} -->
+<div class="wp-block-group alignwide" style="padding-top:4rem;padding-bottom:4rem">
+<!-- wp:heading {"fontFamily":"display","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size has-display-font-family">Selected projects</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>141 projects</p>
+<!-- /wp:paragraph -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_aka-development-1024x576.jpg" alt="Aka Development (Residential complex in Didi Digomi)"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Aka Development (Residential complex in Didi Digomi)</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/aka-development-dighomi-1024x768.jpg" alt="Aka Development (Residential complex in Dighomi)"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Aka Development (Residential complex in Dighomi)</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/alliance-highline-1024x906.png" alt="Alliance Highline"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">interior</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Alliance Highline</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_archi-isani-c-block-1024x566.jpg" alt="Archi Isani C Block"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Archi Isani C Block</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/arqi-isani-d-1024x711.jpg" alt="Archi Isani D Block"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Archi Isani D Block</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/archi-rivertown-1024x698.jpg" alt="Archi Rivertown"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Archi Rivertown</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_archi-saburtalo-b-block-1024x566.jpg" alt="Archi Saburtalo B block"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Archi Saburtalo B block</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_archi-saburtalo-c-block-1024x566.jpg" alt="Archi Saburtalo C block"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"style":{"color":{"text":"#a06d42"},"typography":{"textTransform":"uppercase","letterSpacing":"0.1em","fontWeight":"700"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#a06d42;font-weight:700;letter-spacing:0.1em;text-transform:uppercase">facade</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"fontFamily":"display","fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size has-display-font-family">Archi Saburtalo C block</h3>
+<!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons">
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/projects/">All projects</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4.5rem","bottom":"4.5rem","left":"1.5rem","right":"1.5rem"}},"color":{"background":"#1a1e23"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#1a1e23;padding-top:4.5rem;padding-right:1.5rem;padding-bottom:4.5rem;padding-left:1.5rem">
+<!-- wp:heading {"textColor":"paper","fontFamily":"display","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-paper-color has-text-color has-x-large-font-size has-display-font-family">Get in touch</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"textColor":"paper"} -->
+<p class="has-paper-color has-text-color">Tbilisi, Chavchavadze Ave. 49d · +995 32 225 24 24</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"paper","textColor":"ink"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-ink-color has-paper-background-color has-text-color has-background wp-element-button" href="/about-us/#contact">Contact</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+]]></content:encoded>
+			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<wp:post_id>1002</wp:post_id>
+			<wp:post_date>2026-07-26 00:00:00</wp:post_date>
+			<wp:post_date_gmt>2026-07-26 00:00:00</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status>closed</wp:ping_status>
+			<wp:post_name>home-en</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+		</item>
+		<item>
+			<title>სერვისები</title>
+			<link>https://ips.ge/services/</link>
+			<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://ips.ge/?page_id=1003</guid>
+			<description></description>
+			<content:encoded><![CDATA[
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"3rem","bottom":"4rem"},"blockGap":"1.25rem}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:3rem;padding-bottom:4rem">
+<!-- wp:heading {"level":1,"fontFamily":"display","fontSize":"xx-large"} -->
+<h1 class="wp-block-heading has-xx-large-font-size has-display-font-family">სერვისები</h1>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"fontFamily":"display","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size has-display-font-family" id="interior">IPS ინტერიერი</h2>
+<!-- /wp:heading --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">ინტერიერის საკონსულტაციო მომსახურება</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>დამკვეთს ვთავაზობთ პროექტის შესაბამისი პროდუქციის და ბიუჯეტის რამდენიმე ვერსიას</li><li>კონსულტაციას ვუწევთ ტექნიკურ საკითხებზე. საჭიროების შემთხვევაში, ვაკეთებთ ბიუჯეტის ოპტიმიზაციასაც</li></ul>
+<!-- /wp:list --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">ინტერიერის მასალების მიწოდება</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>დამკვეთს ვთავაზობთ შერჩეული პროდუქციის ბიუჯეტირებას და ალტერნატიულ ვერსიებს</li><li>პროდუქციის შერჩევის შემდეგ ვათანხმებთ ვადებს და ხელშეკრულების პირობებს</li><li>ჩვენს პარტნიორ კომპანიასთან მასალების შეკვეთის პარალელურად ხაზზე ვართ დამკვეთთან და სურვილის შემთხვევაში, ტექნიკურ საკითხებზეც ვუზიარებთ რეკომენდაციებს</li></ul>
+<!-- /wp:list --><!-- wp:heading {"level":2,"fontFamily":"display","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size has-display-font-family" id="facade">IPS ფასადი</h2>
+<!-- /wp:heading --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">ფასადის პროექტირება</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>არქიტექტორის მიერ მოწოდებული რენდერის და ნახაზების მიხედვით ჩვენი ინჟინრები ამზადებენ დეტალურ კვანძებს და ტექნიკურ გადაწყვეტებს</li><li>პროექტის ინჟინერიის პროცესში ვითვალისწინებთ კლიმატურ პირობებს – ქარის დატვირთვა, წყლის შეღწევადობა, ტემპერატურული ცვლილებები და სხვა. ასევე, ყურადღებას ვაქცევთ მასალების თავისებურებებს და დანახარჯების ოპტიმიზაციას</li><li>სამუშაო პროცესს ვუწევთ ზედამხედველობას, რათა ყველა დეტალი პროექტის მიხედვით იყოს შესრულებული</li></ul>
+<!-- /wp:list --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">საფასადე მასალების მიწოდება</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>პროექტის ვიზუალის/არქიტექტურის შესაბამისად დამკვეთს ვთავაზობთ საფასადო-მოსაპირკეთებელი მასალების რამდენიმე ვერსიას</li><li>ვათანხმებთ შერჩეული მასალების მიწოდების ვადებს და ხელშეკრულების პირობებს</li><li>ვუკვეთავთ მასალებს ჩვენს პარტნიორ კომპანიას. ვაკონტროლებთ, რომ წარმოება და ტრანსპორტირება დროულად მოხდეს</li></ul>
+<!-- /wp:list --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">საფასადე მასალების მონტაჟი</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>შეთანხმებული პროექტის მიხედვით ვასრულებთ სამონტაჟო მომსახურებას</li><li>სამუშაო პროცესში დამკვეთთან გვაქვს მუდმივი კომუნიკაცია და რეპორტინგი</li><li>სამუშაოებს ასრულებენ ჩვენი გამოცდილი და სერტიფიცირებული პროფესიონალები. ისინი ფასადის მონტაჟისას თანამედროვე იარაღებს და ტექნოლოგიებს იყენებენ, რაც ფასადს ხარისხს და გამძლეობას უნარჩუნებს</li><li>ჩვენ მიერ შესრულებულ სამუშაოებზე გვაქვს 5-წლიანი საგარანტიო პერიოდი</li></ul>
+<!-- /wp:list --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">სამშენებლო მასალების მიწოდება</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>პირველ რიგში, ვამოწმებთ პროექტის დეტალებს და მოთხოვნებს, რათა სწორად განვსაზღვროთ საჭიროებები</li><li>პროექტის შესაბამისად დამკვეთს ვთავაზობთ მასალების რამდენიმე ვერსიას და ბიუჯეტს, ასევე ტექნიკურ გადაწყვეტილებებს</li><li>ვათანხმებთ მიწოდების ვადებს და ხელშეკრულების პირობებს</li><li>მსხვილი პროექტების შემთხვევაში, საჭიროებიდან გამომდინარე, ხდება შერჩეული მასალის მწარმოებელი კომპანიის წარმომადგენლის ჩართვა, რათა ყველა ტექნიკური დეტალი სწორად იყოს გათვლილი</li><li>პროდუქციის მიწოდების შემდეგ ჩვენი მხრიდან ხდება პერიოდული მონიტორინგი, რათა დავრწმუნდეთ, რომ პროდუქციის შენახვა-დასაწყობება და გამოყენება სწორად ხდება. ასევე, სურვილის შემთხვევაში ხდება თეორიული და პრაქტიკული ცოდნის გაზიარება პროექტის დასრულებამდე.</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+]]></content:encoded>
+			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<wp:post_id>1003</wp:post_id>
+			<wp:post_date>2026-07-26 00:00:00</wp:post_date>
+			<wp:post_date_gmt>2026-07-26 00:00:00</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status>closed</wp:ping_status>
+			<wp:post_name>services</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+		</item>
+		<item>
+			<title>Services</title>
+			<link>https://ips.ge/services-en/</link>
+			<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://ips.ge/?page_id=1004</guid>
+			<description></description>
+			<content:encoded><![CDATA[
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"3rem","bottom":"4rem"},"blockGap":"1.25rem}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:3rem;padding-bottom:4rem">
+<!-- wp:heading {"level":1,"fontFamily":"display","fontSize":"xx-large"} -->
+<h1 class="wp-block-heading has-xx-large-font-size has-display-font-family">Services</h1>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"fontFamily":"display","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size has-display-font-family" id="interior">IPS Interior</h2>
+<!-- /wp:heading --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">Interior consulting services</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>We offer the customer several versions of products and budgets corresponding to the project</li><li>We advise on technical issues. If necessary, we also optimize the budget</li></ul>
+<!-- /wp:list --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">Supply of interior materials</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>We offer budgeting and alternative versions of selected products to the customer</li><li>After selecting the products, we agree to the terms of the contract</li><li>In parallel with the order of materials with our partner company, we are on the line with the customer and, if desired, we also share recommendations on technical issues.</li></ul>
+<!-- /wp:list --><!-- wp:heading {"level":2,"fontFamily":"display","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size has-display-font-family" id="facade">IPS Facade</h2>
+<!-- /wp:heading --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">Facade design</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>According to the rendering and drawings provided by the architect, our engineers prepare detailed nodes and technical solutions</li><li>During the engineering process of the project, we take into account climatic conditions – wind load, water penetration, temperature changes and others. Also, we pay attention to the features of materials and cost optimization</li><li>We supervise the work process so that all details are fulfilled according to the project</li></ul>
+<!-- /wp:list --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">Supply of cladding materials</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>In accordance with the visual/architecture of the project, we offer the customer several versions of cladding materials.</li><li>We agree to the terms of delivery of the selected materials and the terms of the contract</li><li>We order materials from our partner company. We control that production and transportation happen on time</li></ul>
+<!-- /wp:list --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">Installation of cladding materials</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>We perform installation services according to the agreed project</li><li>We have constant communication and reporting with the customer during the work process</li><li>The works are performed by our experienced and certified professionals. They use modern tools and technologies during the installation of the facade, which preserves the quality and durability of the facade</li><li>We have a 5-year warranty period for the work we have done</li></ul>
+<!-- /wp:list --><!-- wp:heading {"level":3,"fontFamily":"display"} -->
+<h3 class="wp-block-heading has-display-font-family">Supply of building materials</h3>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><li>First, we check the details and requirements of the project to correctly define the needs</li><li>In accordance with the project, we offer the customer several materials version and budget, as well as technical solutions</li><li>We agree to the terms of delivery and the terms of the contract</li><li>In the case of large projects , depending on the need, the representative of the company producing the selected material is involved , so that all technical details are correctly calculated.</li><li>After delivery of the products Periodic monitoring is carried out by us to ensure that the products are stored and used correctly. Also, if desired, theoretical and practical knowledge is shared before the end of the project.</li></ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+]]></content:encoded>
+			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<wp:post_id>1004</wp:post_id>
+			<wp:post_date>2026-07-26 00:00:00</wp:post_date>
+			<wp:post_date_gmt>2026-07-26 00:00:00</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status>closed</wp:ping_status>
+			<wp:post_name>services-en</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+		</item>
+		<item>
+			<title>ჩვენ შესახებ</title>
+			<link>https://ips.ge/about-us/</link>
+			<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://ips.ge/?page_id=1005</guid>
+			<description></description>
+			<content:encoded><![CDATA[
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"3rem","bottom":"4rem"},"blockGap":"1.25rem}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:3rem;padding-bottom:4rem">
+<!-- wp:heading {"level":1,"fontFamily":"display","fontSize":"xx-large"} -->
+<h1 class="wp-block-heading has-xx-large-font-size has-display-font-family">ჩვენ შესახებ</h1>
+<!-- /wp:heading -->
+<!-- wp:heading {"fontFamily":"display"} -->
+<h2 class="wp-block-heading has-display-font-family">მისია და ხედვა</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>IPS-ში ვიცით, რომ პროექტების სწორად დაგეგმარებას პროცესების და მასალების სიღრმისეული ცოდნა განაპირობებს.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>სინამდვილეში, ნებისმიერი სამშენებლო პროდუქტი მხოლოდ მასალაა, რომელიც ხარისხის და ფასის მიუხედავად შეიძლება იყოს სწორად ან არასწორად გამოყენებული. ნაშენების Ხარისხს განსაზღვარვს კვალიფიკაცია და არა მხოლოდ მასალის ფასი.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>IPS-ში ყველა პროექტს ვიწყებთ და ვასრულებთ ცოდნით.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"fontFamily":"display"} -->
+<h2 class="wp-block-heading has-display-font-family">ისტორია</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong>2016 — IPS ინტერიერი</strong><br>კომპანია IPS-მა ინტერიერის მიმართულებით 2016 წელს დაიწყო საქმიანობა</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p><strong>2019 — IPS ფასადი</strong><br>2019 წელს შეემატა ფასადების მიმართულებაც</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"fontFamily":"display"} -->
+<h2 class="wp-block-heading has-display-font-family">გუნდი და კარიერა</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>IPS-ის მთავარი სიძლიერე მის გუნდშია. Ჩვენ ყურადღებით ვარჩევთ გუნდის წევრებს, შემდეგ კი გულდასმით ვზრუნავთ მათ სწავლებაზე, განვითარებაზე და საქმის ოსტატებად ჩამოყალიბებაზე.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>IPS-ის გუნდში ყველა ვიზიარებთ საერთო ღირებულებებს და პროექტების უზადოდ შესრულებაშიც სწორად ეს გვეხმარება.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>თუკი ჩვენი საქმიანობის სფერო შენთვის საინტერესოა და ჩვენი ღირებულებები შენს უნარ-ჩვევებს შეესაბამება, Მაშინ დაათვალიერე ჩვენი ვაკანსიები ან შეავსე განაცხადის ფორმა.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"fontFamily":"display"} -->
+<h2 class="wp-block-heading has-display-font-family">სოციალური პასუხისმგებლობა</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>IPS-ის კორპორატიული სოციალური პასუხისმგებლობა მოიცავს სამშენებლო, კერძოდ კი, საფასადე და ინტერიერის მოპირკეთებასთან დაკავშირებული ცოდნის პოპულარიზაციას, მხარდაჭერას და გავრცელებას. ამ მიმართულებით კომპანიას არაერთი გეგმა აქვს, რომლებსაც ეტაპობრივად განახორციელებს.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>კომპანიის CSR აქტივობის მიზანია, ხელი შეუწყოს იმ ინდუსტრიის და ზოგადად, გარემოს განვითარებას და გაუმჯობესებას, რომელშიც ის ოპერირებს.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"fontFamily":"display"} -->
+<h2 class="wp-block-heading has-display-font-family" id="contact">კონტაქტი</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>თბილისი, ჭავჭავაძის გამზ. 49დ<br><a href="tel:+995322252424">+995 32 225 24 24</a><br><a href="mailto:info@ips.ge">info@ips.ge</a></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+]]></content:encoded>
+			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<wp:post_id>1005</wp:post_id>
+			<wp:post_date>2026-07-26 00:00:00</wp:post_date>
+			<wp:post_date_gmt>2026-07-26 00:00:00</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status>closed</wp:ping_status>
+			<wp:post_name>about-us</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+		</item>
+		<item>
+			<title>About us</title>
+			<link>https://ips.ge/about-us-en/</link>
+			<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://ips.ge/?page_id=1006</guid>
+			<description></description>
+			<content:encoded><![CDATA[
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"3rem","bottom":"4rem"},"blockGap":"1.25rem}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:3rem;padding-bottom:4rem">
+<!-- wp:heading {"level":1,"fontFamily":"display","fontSize":"xx-large"} -->
+<h1 class="wp-block-heading has-xx-large-font-size has-display-font-family">About us</h1>
+<!-- /wp:heading -->
+<!-- wp:heading {"fontFamily":"display"} -->
+<h2 class="wp-block-heading has-display-font-family">Mission and Vision</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>At IPS, we know that proper project planning depends on in-depth knowledge of processes and materials.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>In fact, any construction product is just a material, which, regardless of quality and price, can be used correctly or incorrectly. The quality of the buildings is determined by the qualification and not only the price of the material.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>At IPS, we start and finish every project with knowledge.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"fontFamily":"display"} -->
+<h2 class="wp-block-heading has-display-font-family">History</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong>2016 — IPS Interior</strong><br>The company IPS started its activity in the direction of interior in 2016</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p><strong>2019 — IPS Facade</strong><br>In 2019, the direction of facades was also added</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"fontFamily":"display"} -->
+<h2 class="wp-block-heading has-display-font-family">Team and Career</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>The main strength of IPS lies in its team. We carefully select our team members, and then carefully train, develop, and develop them into masters of their craft.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>In the IPS team, we all share common values and this helps us execute projects flawlessly.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>IPS’ corporate social responsibility includes promoting, supporting and disseminating knowledge related to construction, in particular, facade and interior finishing. In this direction, the company has a number of plans, which it will implement step by step.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"fontFamily":"display"} -->
+<h2 class="wp-block-heading has-display-font-family">Social Responsibility</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>The purpose of the company’s CSR activity is to contribute to the development and improvement of the industry and, in general, the environment in which it operates.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>Tbilisi, Chavchavadze Ave. 49d</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"fontFamily":"display"} -->
+<h2 class="wp-block-heading has-display-font-family" id="contact">Contact</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Tbilisi, Chavchavadze Ave. 49d<br><a href="tel:+995322252424">+995 32 225 24 24</a><br><a href="mailto:info@ips.ge">info@ips.ge</a></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+]]></content:encoded>
+			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<wp:post_id>1006</wp:post_id>
+			<wp:post_date>2026-07-26 00:00:00</wp:post_date>
+			<wp:post_date_gmt>2026-07-26 00:00:00</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status>closed</wp:ping_status>
+			<wp:post_name>about-us-en</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+		</item>
+		<item>
+			<title>ბრენდები</title>
+			<link>https://ips.ge/brands/</link>
+			<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://ips.ge/?page_id=1007</guid>
+			<description></description>
+			<content:encoded><![CDATA[
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"3rem","bottom":"4rem"},"blockGap":"1.5rem}},"layout":{"type":"constrained","wideSize":"1180px"}} -->
+<div class="wp-block-group alignwide" style="padding-top:3rem;padding-bottom:4rem">
+<!-- wp:heading {"level":1,"fontFamily":"display","fontSize":"xx-large"} -->
+<h1 class="wp-block-heading has-xx-large-font-size has-display-font-family">ბრენდები</h1>
+<!-- /wp:heading -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_abet_laminati.png" alt="ABET LAMINATI"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ABET LAMINATI</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_alpolic.png" alt="ALPOLIC"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ALPOLIC</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_alternativa.png" alt="ALTERNATIVA"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ALTERNATIVA</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_alternativa.png" alt="ALTERNATIVE"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ALTERNATIVE</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns --><!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/appiani-logo.png" alt="APPIANI"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>APPIANI</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_argeton.png" alt="ARGETON"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ARGETON</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_atlas_concorde.png" alt="ATLAS CONCORDE"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ATLAS CONCORDE</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_bralo.png" alt="BRALO"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>BRALO</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns --><!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_bs.png" alt="BS (Building Solutions)"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>BS (Building Solutions)</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_bts.png" alt="BTS"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>BTS</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_cedral.png" alt="CEDRAL"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>CEDRAL</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ceramica-vogue-logo.png" alt="CERAMICA VOGUE"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>CERAMICA VOGUE</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+]]></content:encoded>
+			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<wp:post_id>1007</wp:post_id>
+			<wp:post_date>2026-07-26 00:00:00</wp:post_date>
+			<wp:post_date_gmt>2026-07-26 00:00:00</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status>closed</wp:ping_status>
+			<wp:post_name>brands</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+		</item>
+		<item>
+			<title>Brands</title>
+			<link>https://ips.ge/brands-en/</link>
+			<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://ips.ge/?page_id=1008</guid>
+			<description></description>
+			<content:encoded><![CDATA[
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"3rem","bottom":"4rem"},"blockGap":"1.5rem}},"layout":{"type":"constrained","wideSize":"1180px"}} -->
+<div class="wp-block-group alignwide" style="padding-top:3rem;padding-bottom:4rem">
+<!-- wp:heading {"level":1,"fontFamily":"display","fontSize":"xx-large"} -->
+<h1 class="wp-block-heading has-xx-large-font-size has-display-font-family">Brands</h1>
+<!-- /wp:heading -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_abet_laminati.png" alt="ABET LAMINATI"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ABET LAMINATI</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_alpolic.png" alt="ALPOLIC"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ALPOLIC</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_alternativa.png" alt="ALTERNATIVA"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ALTERNATIVA</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_alternativa.png" alt="ALTERNATIVE"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ALTERNATIVE</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns --><!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/appiani-logo.png" alt="APPIANI"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>APPIANI</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_argeton.png" alt="ARGETON"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ARGETON</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_atlas_concorde.png" alt="ATLAS CONCORDE"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>ATLAS CONCORDE</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_bralo.png" alt="BRALO"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>BRALO</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns --><!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_bs.png" alt="BS (Building Solutions)"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>BS (Building Solutions)</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_bts.png" alt="BTS"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>BTS</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ips.ge_cedral.png" alt="CEDRAL"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>CEDRAL</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="/wp-content/themes/ips-blocks/assets/media/ceramica-vogue-logo.png" alt="CERAMICA VOGUE"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"fontFamily":"display"} -->
+<p class="has-display-font-family"><strong>CERAMICA VOGUE</strong></p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+]]></content:encoded>
+			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+			<wp:post_id>1008</wp:post_id>
+			<wp:post_date>2026-07-26 00:00:00</wp:post_date>
+			<wp:post_date_gmt>2026-07-26 00:00:00</wp:post_date_gmt>
+			<wp:comment_status>closed</wp:comment_status>
+			<wp:ping_status>closed</wp:ping_status>
+			<wp:post_name>brands-en</wp:post_name>
+			<wp:status>publish</wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>0</wp:menu_order>
+			<wp:post_type>page</wp:post_type>
+			<wp:post_password></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+		</item>
+</channel>
+</rss>

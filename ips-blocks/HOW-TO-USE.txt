@@ -1,0 +1,43 @@
+IPS BLOCKS — how to build the site without writing code
+=====================================================
+
+This is a WordPress BLOCK THEME. You assemble pages like Lego using Patterns.
+
+1) INSTALL
+   - Zip the folder "ips-blocks"
+   - WordPress Admin → Appearance → Themes → Add New → Upload Theme
+   - Activate "IPS Blocks"
+
+2) IMPORT READY PAGES (optional, fastest start)
+   - Tools → Import → WordPress → Run importer
+   - Upload: ips-blocks/sample-pages.xml
+   - Assign pages to admin user
+   - Settings → Reading → set "მთავარი / Home (KA)" (or Home EN) as homepage
+
+3) BUILD / EDIT LIKE LEGO
+   - Pages → edit any page
+   - Click "+" → Patterns → category "IPS sections"
+   - Insert pieces:
+       • IPS Full homepage
+       • Hero / Interior-Facade / Mission / Projects / CTA
+       • Services / About / Brands pages
+   - Click any text or image and edit it — no code
+
+4) HEADER & FOOTER
+   - Appearance → Editor → Patterns / Template Parts
+   - Edit Header (logo + menu) and Footer visually
+
+5) MENU
+   - Appearance → Editor → Navigation
+   - Or Appearance → Menus (depending on WP version)
+   - Add: Home, Services, Projects, Brands, About, News
+
+6) LANGUAGES (KA / EN)
+   - Install Polylang (recommended)
+   - Duplicate pages per language, or use the KA/EN patterns separately
+
+7) MEDIA
+   - All the images already sit in assets/media/
+   - You can replace any image in the editor (click image → Replace)
+
+You do NOT need to open PHP/CSS files to change content.
