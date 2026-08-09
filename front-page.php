@@ -111,20 +111,28 @@ $news_url     = home_url('/news-blogs/');
 		<div class="container projects-strip__track">
 			<?php foreach ($featured as $project) :
 				$img = ips_content_image_url($project['image'] ?? null);
-				$types = implode(', ', $project['types'] ?? []);
+				$type_slugs = $project['types'] ?? [];
+				$type_bits = [];
+				foreach ($type_slugs as $slug_type) {
+					if ($slug_type === 'interior') {
+						$type_bits[] = ips_is_en() ? 'Interior' : 'ინტერიერი';
+					} elseif ($slug_type === 'facade') {
+						$type_bits[] = ips_is_en() ? 'Facade' : 'ფასადი';
+					}
+				}
 				$slug = (string) ($project['slug'] ?? '');
 				$href = $slug !== '' ? home_url('/project/' . $slug . '/') : $projects_url;
 				?>
 				<a class="project-tile" href="<?php echo esc_url($href); ?>" data-reveal-item>
 					<span class="project-tile__media">
 						<?php if ($img) : ?>
-							<img src="<?php echo esc_url($img); ?>" alt="<?php echo esc_attr(ips_project_title($project)); ?>" loading="lazy">
+							<img src="<?php echo esc_url($img); ?>" alt="<?php echo esc_attr(ips_project_title($project)); ?>" loading="lazy" decoding="async">
 						<?php else : ?>
 							<span class="project-tile__placeholder" aria-hidden="true"></span>
 						<?php endif; ?>
 					</span>
 					<span class="project-tile__meta">
-						<?php if ($types) : ?><span class="project-tile__type"><?php echo esc_html($types); ?></span><?php endif; ?>
+						<?php if ($type_bits) : ?><span class="project-tile__type"><?php echo esc_html(implode(' · ', $type_bits)); ?></span><?php endif; ?>
 						<span class="project-tile__title"><?php echo esc_html(ips_project_title($project)); ?></span>
 					</span>
 				</a>

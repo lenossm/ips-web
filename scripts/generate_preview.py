@@ -234,17 +234,32 @@ def title_for(item: dict, lang: str, fallback: bool = True) -> str:
     return ka_best if fallback else ""
 
 
+def type_label(types: list, lang: str) -> str:
+    labels = {
+        "ka": {"interior": "ინტერიერი", "facade": "ფასადი"},
+        "en": {"interior": "Interior", "facade": "Facade"},
+    }
+    out = []
+    for t in types or []:
+        out.append(labels.get(lang, labels["en"]).get(t, t))
+    return " · ".join(out)
+
+
 def project_card(p: dict, lang: str) -> str:
     title = title_for(p, lang)
     href = f"project-{p['slug']}.html" if lang == "ka" else f"project-{p['slug']}-en.html"
     src = img_src(p.get("image") or p.get("featured_image"))
-    media = f'<img src="{e(src)}" alt="{e(title)}" loading="lazy">' if src else '<span class="project-tile__placeholder"></span>'
-    types = " ".join(p.get("types") or [])
+    media = (
+        f'<img src="{e(src)}" alt="{e(title)}" loading="lazy" decoding="async">'
+        if src
+        else '<span class="project-tile__placeholder"></span>'
+    )
+    types = p.get("types") or []
     return f"""
-<a class="project-tile" href="{href}" data-types="{e(types)}">
+<a class="project-tile" href="{href}" data-types="{e(' '.join(types))}">
   <span class="project-tile__media">{media}</span>
   <span class="project-tile__meta">
-    <span class="project-tile__type">{e(', '.join(p.get('types') or []))}</span>
+    <span class="project-tile__type">{e(type_label(types, lang))}</span>
     <span class="project-tile__title">{e(title)}</span>
   </span>
 </a>"""

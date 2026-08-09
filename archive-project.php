@@ -30,14 +30,20 @@ $content_projects = ips_content_projects();
 					}
 				}
 				$type_attr = implode(' ', array_unique($type_slugs));
-				$type_label = $terms && !is_wp_error($terms)
-					? implode(', ', wp_list_pluck($terms, 'name'))
-					: '';
+				$type_bits = [];
+				foreach ($type_slugs as $slug) {
+					if ($slug === 'interior') {
+						$type_bits[] = ips_is_en() ? 'Interior' : 'ინტერიერი';
+					} elseif ($slug === 'facade') {
+						$type_bits[] = ips_is_en() ? 'Facade' : 'ფასადი';
+					}
+				}
+				$type_label = implode(' · ', array_unique($type_bits));
 				?>
 				<a class="project-tile" href="<?php the_permalink(); ?>" data-types="<?php echo esc_attr($type_attr); ?>">
 					<span class="project-tile__media">
 						<?php if (has_post_thumbnail()) : ?>
-							<?php the_post_thumbnail('ips-project'); ?>
+							<?php the_post_thumbnail('ips-project', ['loading' => 'lazy', 'decoding' => 'async']); ?>
 						<?php else : ?>
 							<span class="project-tile__placeholder" aria-hidden="true"></span>
 						<?php endif; ?>
@@ -57,16 +63,26 @@ $content_projects = ips_content_projects();
 				$slug = (string) ($project['slug'] ?? '');
 				$href = $slug !== '' ? home_url('/project/' . $slug . '/') : '#';
 				?>
+				<?php
+				$type_bits = [];
+				foreach ($types as $slug) {
+					if ($slug === 'interior') {
+						$type_bits[] = ips_is_en() ? 'Interior' : 'ინტერიერი';
+					} elseif ($slug === 'facade') {
+						$type_bits[] = ips_is_en() ? 'Facade' : 'ფასადი';
+					}
+				}
+				?>
 				<a class="project-tile" href="<?php echo esc_url($href); ?>" data-types="<?php echo esc_attr(implode(' ', $types)); ?>">
 					<span class="project-tile__media">
 						<?php if ($img) : ?>
-							<img src="<?php echo esc_url($img); ?>" alt="<?php echo esc_attr(ips_project_title($project)); ?>" loading="lazy">
+							<img src="<?php echo esc_url($img); ?>" alt="<?php echo esc_attr(ips_project_title($project)); ?>" loading="lazy" decoding="async">
 						<?php else : ?>
 							<span class="project-tile__placeholder" aria-hidden="true"></span>
 						<?php endif; ?>
 					</span>
 					<span class="project-tile__meta">
-						<span class="project-tile__type"><?php echo esc_html(implode(', ', $types)); ?></span>
+						<span class="project-tile__type"><?php echo esc_html(implode(' · ', $type_bits)); ?></span>
 						<span class="project-tile__title"><?php echo esc_html(ips_project_title($project)); ?></span>
 					</span>
 				</a>
