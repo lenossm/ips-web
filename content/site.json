@@ -681,16 +681,24 @@
   },
   "projects": [
     {
-      "slug": "idea-melikhishvili",
+      "slug": "idea-melikishvili",
       "kind": "project",
       "title": {
         "ka": "იდეა მელიქიშვილი",
-        "en": "იდეა მელიქიშვილი"
+        "en": "Idea Melikishvili"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -705,64 +713,8 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/idea-melikishvili/",
         "ka": "https://ips.ge/project/idea-melikhishvili/"
-      },
-      "images": [
-        "content/images/ips.ge_idea-melikishvili.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_idea-melikishvili.jpg",
-      "categories": [
-        {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2026-03-03T11:06:05",
-      "image": "content/images/ips.ge_idea-melikishvili.jpg"
-    },
-    {
-      "slug": "idea-melikishvili",
-      "kind": "project",
-      "title": {
-        "en": "Idea Melikishvili",
-        "ka": "Idea Melikishvili"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/idea-melikishvili/"
       },
       "images": [
         "content/images/ips.ge_idea-melikishvili.jpg"
@@ -792,7 +744,8 @@
         "facade"
       ],
       "date": "2026-03-03T11:06:05",
-      "image": "content/images/ips.ge_idea-melikishvili.jpg"
+      "image": "content/images/ips.ge_idea-melikishvili.jpg",
+      "name": "Idea Melikishvili"
     },
     {
       "slug": "sastumro-bodbe",
@@ -846,16 +799,24 @@
       "image": "content/images/ips.ge_hotel-bodbe.jpg"
     },
     {
-      "slug": "paragraphi-golphi-spa-thabori",
+      "slug": "paragraph-golf-spa-tabori",
       "kind": "project",
       "title": {
         "ka": "პარაგრაფი გოლფი & სპა თაბორი",
-        "en": "პარაგრაფი გოლფი & სპა თაბორი"
+        "en": "Paragraph Golf & Spa Tabori"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -870,6 +831,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/paragraph-golf-spa-tabori/",
         "ka": "https://ips.ge/project/paragraphi-golphi-spa-thabori/"
       },
       "images": [
@@ -878,57 +840,6 @@
       "featured_image": "content/images/ips.ge_paragraph-golf-spa-tabori.jpg",
       "categories": [
         {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2026-03-03T10:45:27",
-      "image": "content/images/ips.ge_paragraph-golf-spa-tabori.jpg"
-    },
-    {
-      "slug": "paragraph-golf-spa-tabori",
-      "kind": "project",
-      "title": {
-        "en": "Paragraph Golf & Spa Tabori",
-        "ka": "Paragraph Golf & Spa Tabori"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/paragraph-golf-spa-tabori/"
-      },
-      "images": [
-        "content/images/ips.ge_paragraph-golf-spa-tabori.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_paragraph-golf-spa-tabori.jpg",
-      "categories": [
-        {
           "id": 34,
           "name": "Interior",
           "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
@@ -945,19 +856,28 @@
         "interior"
       ],
       "date": "2026-03-03T10:45:27",
-      "image": "content/images/ips.ge_paragraph-golf-spa-tabori.jpg"
+      "image": "content/images/ips.ge_paragraph-golf-spa-tabori.jpg",
+      "name": "Paragraph Golf & Spa Tabori"
     },
     {
-      "slug": "hemptoni-hiltonisgan",
+      "slug": "hampton-by-hilton",
       "kind": "project",
       "title": {
         "ka": "ჰემპტონი ჰილტონისგან",
-        "en": "ჰემპტონი ჰილტონისგან"
+        "en": "Hampton By Hilton"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -972,6 +892,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/hampton-by-hilton/",
         "ka": "https://ips.ge/project/hemptoni-hiltonisgan/"
       },
       "images": [
@@ -980,57 +901,6 @@
       "featured_image": "content/images/ips.ge_hampton-by-hilton_2.jpg",
       "categories": [
         {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2026-03-03T10:39:32",
-      "image": "content/images/ips.ge_hampton-by-hilton_2.jpg"
-    },
-    {
-      "slug": "hampton-by-hilton",
-      "kind": "project",
-      "title": {
-        "en": "Hampton By Hilton",
-        "ka": "Hampton By Hilton"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/hampton-by-hilton/"
-      },
-      "images": [
-        "content/images/ips.ge_hampton-by-hilton_2.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_hampton-by-hilton_2.jpg",
-      "categories": [
-        {
           "id": 34,
           "name": "Interior",
           "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
@@ -1047,14 +917,15 @@
         "interior"
       ],
       "date": "2026-03-03T10:39:32",
-      "image": "content/images/ips.ge_hampton-by-hilton_2.jpg"
+      "image": "content/images/ips.ge_hampton-by-hilton_2.jpg",
+      "name": "Hampton By Hilton"
     },
     {
       "slug": "kerdzo-sakhli-cqhnethshi-2",
       "kind": "project",
       "title": {
         "ka": "კერძო სახლი წყნეთში",
-        "en": "კერძო სახლი წყნეთში"
+        "en": "Private house in Tskneti"
       },
       "excerpt": {
         "ka": ""
@@ -1067,62 +938,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/kerdzo-sakhli-cqhnethshi-2/"
-      },
-      "images": [
-        "content/images/ips.ge_kerdzo-sakhli-cqhnethshi.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_kerdzo-sakhli-cqhnethshi.jpg",
-      "categories": [
-        {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 55,
-          "name": "ფასადის პროექტირება",
-          "slug": "facadte-development-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2025-07-22T14:29:25",
-      "image": "content/images/ips.ge_kerdzo-sakhli-cqhnethshi.jpg"
-    },
-    {
-      "slug": "private-house-in-tskneti-2",
-      "kind": "project",
-      "title": {
-        "en": "Private house in Tskneti",
-        "ka": "Private house in Tskneti"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -1137,6 +953,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/kerdzo-sakhli-cqhnethshi-2/",
         "en": "https://ips.ge/en/project/private-house-in-tskneti-2/"
       },
       "images": [
@@ -1145,27 +962,27 @@
       "featured_image": "content/images/ips.ge_kerdzo-sakhli-cqhnethshi.jpg",
       "categories": [
         {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
+          "id": 54,
+          "name": "ფასადი",
+          "slug": "facade-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 31,
-          "name": "Facade Project",
-          "slug": "facadte-development",
+          "id": 55,
+          "name": "ფასადის პროექტირება",
+          "slug": "facadte-development-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
+          "id": 56,
+          "name": "საფასადე მასალების მიწოდება",
+          "slug": "facade-supply-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
+          "id": 57,
+          "name": "საფასადე მასალების მონტაჟი",
+          "slug": "facade-installation-2",
           "taxonomy": "project-category"
         }
       ],
@@ -1173,19 +990,28 @@
         "facade"
       ],
       "date": "2025-07-22T14:29:25",
-      "image": "content/images/ips.ge_kerdzo-sakhli-cqhnethshi.jpg"
+      "image": "content/images/ips.ge_kerdzo-sakhli-cqhnethshi.jpg",
+      "name": "Private house in Tskneti"
     },
     {
-      "slug": "bathumis-n12-sabavshvo-baghi",
+      "slug": "batumi-kindergarten-no-12",
       "kind": "project",
       "title": {
         "ka": "ბათუმის N12 საბავშვო ბაღი",
-        "en": "ბათუმის N12 საბავშვო ბაღი"
+        "en": "Batumi Kindergarten No. 12"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -1200,6 +1026,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/batumi-kindergarten-no-12/",
         "ka": "https://ips.ge/project/bathumis-n12-sabavshvo-baghi/"
       },
       "images": [
@@ -1208,70 +1035,6 @@
       "featured_image": "content/images/ips.ge_bathumis-n12-sabavshvo-baghi.jpg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 55,
-          "name": "ფასადის პროექტირება",
-          "slug": "facadte-development-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade",
-        "interior"
-      ],
-      "date": "2025-07-22T14:25:48",
-      "image": "content/images/ips.ge_bathumis-n12-sabavshvo-baghi.jpg"
-    },
-    {
-      "slug": "batumi-kindergarten-no-12",
-      "kind": "project",
-      "title": {
-        "en": "Batumi Kindergarten No. 12",
-        "ka": "Batumi Kindergarten No. 12"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/batumi-kindergarten-no-12/"
-      },
-      "images": [
-        "content/images/ips.ge_bathumis-n12-sabavshvo-baghi.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_bathumis-n12-sabavshvo-baghi.jpg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -1297,22 +1060,32 @@
         }
       ],
       "types": [
-        "facade"
+        "facade",
+        "interior"
       ],
       "date": "2025-07-22T14:25:48",
-      "image": "content/images/ips.ge_bathumis-n12-sabavshvo-baghi.jpg"
+      "image": "content/images/ips.ge_bathumis-n12-sabavshvo-baghi.jpg",
+      "name": "Batumi Kindergarten No. 12"
     },
     {
-      "slug": "bathumis-n26-sabavshvo-baghi",
+      "slug": "batumi-kindergarten-no-26",
       "kind": "project",
       "title": {
         "ka": "ბათუმის N26 საბავშვო ბაღი",
-        "en": "ბათუმის N26 საბავშვო ბაღი"
+        "en": "Batumi Kindergarten No. 26"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -1327,6 +1100,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/batumi-kindergarten-no-26/",
         "ka": "https://ips.ge/project/bathumis-n26-sabavshvo-baghi/"
       },
       "images": [
@@ -1335,70 +1109,6 @@
       "featured_image": "content/images/ips.ge_bathumis-n26-sabavshvo-baghi.jpg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 55,
-          "name": "ფასადის პროექტირება",
-          "slug": "facadte-development-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade",
-        "interior"
-      ],
-      "date": "2025-07-22T14:21:35",
-      "image": "content/images/ips.ge_bathumis-n26-sabavshvo-baghi.jpg"
-    },
-    {
-      "slug": "batumi-kindergarten-no-26",
-      "kind": "project",
-      "title": {
-        "en": "Batumi Kindergarten No. 26",
-        "ka": "Batumi Kindergarten No. 26"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/batumi-kindergarten-no-26/"
-      },
-      "images": [
-        "content/images/ips.ge_bathumis-n26-sabavshvo-baghi.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_bathumis-n26-sabavshvo-baghi.jpg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -1424,22 +1134,32 @@
         }
       ],
       "types": [
-        "facade"
+        "facade",
+        "interior"
       ],
       "date": "2025-07-22T14:21:35",
-      "image": "content/images/ips.ge_bathumis-n26-sabavshvo-baghi.jpg"
+      "image": "content/images/ips.ge_bathumis-n26-sabavshvo-baghi.jpg",
+      "name": "Batumi Kindergarten No. 26"
     },
     {
-      "slug": "bathumis-n3-sabavshvo-baghi",
+      "slug": "batumi-kindergarten-no-3",
       "kind": "project",
       "title": {
         "ka": "ბათუმის N3 საბავშვო ბაღი",
-        "en": "ბათუმის N3 საბავშვო ბაღი"
+        "en": "Batumi Kindergarten No. 3"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -1454,6 +1174,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/batumi-kindergarten-no-3/",
         "ka": "https://ips.ge/project/bathumis-n3-sabavshvo-baghi/"
       },
       "images": [
@@ -1462,70 +1183,6 @@
       "featured_image": "content/images/ips.ge_bathumis-n3-sabavshvo-baghi.jpg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 55,
-          "name": "ფასადის პროექტირება",
-          "slug": "facadte-development-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade",
-        "interior"
-      ],
-      "date": "2025-07-22T14:17:50",
-      "image": "content/images/ips.ge_bathumis-n3-sabavshvo-baghi.jpg"
-    },
-    {
-      "slug": "batumi-kindergarten-no-3",
-      "kind": "project",
-      "title": {
-        "en": "Batumi Kindergarten No. 3",
-        "ka": "Batumi Kindergarten No. 3"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/batumi-kindergarten-no-3/"
-      },
-      "images": [
-        "content/images/ips.ge_bathumis-n3-sabavshvo-baghi.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_bathumis-n3-sabavshvo-baghi.jpg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -1551,22 +1208,32 @@
         }
       ],
       "types": [
-        "facade"
+        "facade",
+        "interior"
       ],
       "date": "2025-07-22T14:17:50",
-      "image": "content/images/ips.ge_bathumis-n3-sabavshvo-baghi.jpg"
+      "image": "content/images/ips.ge_bathumis-n3-sabavshvo-baghi.jpg",
+      "name": "Batumi Kindergarten No. 3"
     },
     {
-      "slug": "orthabathumis-sabavshvo-baghi",
+      "slug": "ortabatumi-kindergarten",
       "kind": "project",
       "title": {
         "ka": "ორთაბათუმის საბავშვო ბაღი",
-        "en": "ორთაბათუმის საბავშვო ბაღი"
+        "en": "Ortabatumi Kindergarten"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -1581,6 +1248,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/ortabatumi-kindergarten/",
         "ka": "https://ips.ge/project/orthabathumis-sabavshvo-baghi/"
       },
       "images": [
@@ -1589,70 +1257,6 @@
       "featured_image": "content/images/ips.ge_ortabatumi.jpg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 55,
-          "name": "ფასადის პროექტირება",
-          "slug": "facadte-development-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade",
-        "interior"
-      ],
-      "date": "2025-07-22T14:15:08",
-      "image": "content/images/ips.ge_ortabatumi.jpg"
-    },
-    {
-      "slug": "ortabatumi-kindergarten",
-      "kind": "project",
-      "title": {
-        "en": "Ortabatumi Kindergarten",
-        "ka": "Ortabatumi Kindergarten"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/ortabatumi-kindergarten/"
-      },
-      "images": [
-        "content/images/ips.ge_ortabatumi.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_ortabatumi.jpg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -1678,22 +1282,32 @@
         }
       ],
       "types": [
-        "facade"
+        "facade",
+        "interior"
       ],
       "date": "2025-07-22T14:15:08",
-      "image": "content/images/ips.ge_ortabatumi.jpg"
+      "image": "content/images/ips.ge_ortabatumi.jpg",
+      "name": "Ortabatumi Kindergarten"
     },
     {
-      "slug": "sotsialuri-sakhli-bathumshi",
+      "slug": "social-house-in-batumi",
       "kind": "project",
       "title": {
         "ka": "სოციალური სახლი ბათუმში",
-        "en": "სოციალური სახლი ბათუმში"
+        "en": "Social house in Batumi"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -1708,71 +1322,8 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/social-house-in-batumi/",
         "ka": "https://ips.ge/project/sotsialuri-sakhli-bathumshi/"
-      },
-      "images": [
-        "content/images/ips.ge_social-house-in-batumi.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_social-house-in-batumi.jpg",
-      "categories": [
-        {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 55,
-          "name": "ფასადის პროექტირება",
-          "slug": "facadte-development-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade",
-        "interior"
-      ],
-      "date": "2025-07-22T14:09:49",
-      "image": "content/images/ips.ge_social-house-in-batumi.jpg"
-    },
-    {
-      "slug": "social-house-in-batumi",
-      "kind": "project",
-      "title": {
-        "en": "Social house in Batumi",
-        "ka": "Social house in Batumi"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/social-house-in-batumi/"
       },
       "images": [
         "content/images/ips.ge_social-house-in-batumi.jpg"
@@ -1805,10 +1356,12 @@
         }
       ],
       "types": [
-        "facade"
+        "facade",
+        "interior"
       ],
       "date": "2025-07-22T14:09:49",
-      "image": "content/images/ips.ge_social-house-in-batumi.jpg"
+      "image": "content/images/ips.ge_social-house-in-batumi.jpg",
+      "name": "Social house in Batumi"
     },
     {
       "slug": "verona",
@@ -1896,16 +1449,24 @@
       "image": "content/images/ips.ge_verona.jpg"
     },
     {
-      "slug": "aka-developmenti-satskhovrebeli-komplekhsi-did-dighomshi-2",
+      "slug": "aka-development-residential-complex-in-didi-digomi",
       "kind": "project",
       "title": {
         "ka": "აკა დეველოპმენტი (საცხოვრებელი კომპლექსი დიდ დიღომში)",
-        "en": "აკა დეველოპმენტი (საცხოვრებელი კომპლექსი დიდ დიღომში)"
+        "en": "Aka Development (Residential complex in Didi Digomi)"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -1920,6 +1481,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/aka-development-residential-complex-in-didi-digomi/",
         "ka": "https://ips.ge/project/aka-developmenti-satskhovrebeli-komplekhsi-did-dighomshi-2/"
       },
       "images": [
@@ -1928,69 +1490,6 @@
       "featured_image": "content/images/ips.ge_aka-development.jpg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 55,
-          "name": "ფასადის პროექტირება",
-          "slug": "facadte-development-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2025-07-13T08:16:41",
-      "image": "content/images/ips.ge_aka-development.jpg"
-    },
-    {
-      "slug": "aka-development-residential-complex-in-didi-digomi",
-      "kind": "project",
-      "title": {
-        "en": "Aka Development (Residential complex in Didi Digomi)",
-        "ka": "Aka Development (Residential complex in Didi Digomi)"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/aka-development-residential-complex-in-didi-digomi/"
-      },
-      "images": [
-        "content/images/ips.ge_aka-development.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_aka-development.jpg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -2019,14 +1518,15 @@
         "facade"
       ],
       "date": "2025-07-13T08:16:41",
-      "image": "content/images/ips.ge_aka-development.jpg"
+      "image": "content/images/ips.ge_aka-development.jpg",
+      "name": "Aka Development (Residential complex in Didi Digomi)"
     },
     {
       "slug": "m2-mirtskhulava-2",
       "kind": "project",
       "title": {
         "ka": "M2 მირცხულავა",
-        "en": "M2 მირცხულავა"
+        "en": "M2 Mirtskhulava"
       },
       "excerpt": {
         "ka": ""
@@ -2039,62 +1539,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/m2-mirtskhulava-2/"
-      },
-      "images": [
-        "content/images/ips.ge_m2-mirtskhulava.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_m2-mirtskhulava.jpg",
-      "categories": [
-        {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 55,
-          "name": "ფასადის პროექტირება",
-          "slug": "facadte-development-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2025-07-09T18:12:57",
-      "image": "content/images/ips.ge_m2-mirtskhulava.jpg"
-    },
-    {
-      "slug": "m2-mirtskhulava-3",
-      "kind": "project",
-      "title": {
-        "en": "M2 Mirtskhulava",
-        "ka": "M2 Mirtskhulava"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -2109,6 +1554,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/m2-mirtskhulava-2/",
         "en": "https://ips.ge/en/project/m2-mirtskhulava-3/"
       },
       "images": [
@@ -2117,27 +1563,27 @@
       "featured_image": "content/images/ips.ge_m2-mirtskhulava.jpg",
       "categories": [
         {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
+          "id": 54,
+          "name": "ფასადი",
+          "slug": "facade-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 31,
-          "name": "Facade Project",
-          "slug": "facadte-development",
+          "id": 55,
+          "name": "ფასადის პროექტირება",
+          "slug": "facadte-development-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
+          "id": 56,
+          "name": "საფასადე მასალების მიწოდება",
+          "slug": "facade-supply-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
+          "id": 57,
+          "name": "საფასადე მასალების მონტაჟი",
+          "slug": "facade-installation-2",
           "taxonomy": "project-category"
         }
       ],
@@ -2145,19 +1591,28 @@
         "facade"
       ],
       "date": "2025-07-09T18:12:57",
-      "image": "content/images/ips.ge_m2-mirtskhulava.jpg"
+      "image": "content/images/ips.ge_m2-mirtskhulava.jpg",
+      "name": "M2 Mirtskhulava"
     },
     {
-      "slug": "houmsaid-bathumi",
+      "slug": "homeside-batumi",
       "kind": "project",
       "title": {
         "ka": "ჰოუმსაიდ ბათუმი",
-        "en": "ჰოუმსაიდ ბათუმი"
+        "en": "Homeside Batumi"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -2172,6 +1627,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/homeside-batumi/",
         "ka": "https://ips.ge/project/houmsaid-bathumi/"
       },
       "images": [
@@ -2180,27 +1636,27 @@
       "featured_image": "content/images/ips_houmsaidi.jpg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
+          "id": 22,
+          "name": "Facade",
+          "slug": "facade",
           "taxonomy": "project-category"
         },
         {
-          "id": 55,
-          "name": "ფასადის პროექტირება",
-          "slug": "facadte-development-2",
+          "id": 31,
+          "name": "Facade Project",
+          "slug": "facadte-development",
           "taxonomy": "project-category"
         },
         {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
+          "id": 32,
+          "name": "Facade Supply",
+          "slug": "facade-supply",
           "taxonomy": "project-category"
         },
         {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
+          "id": 33,
+          "name": "Facade Installation",
+          "slug": "facade-installation",
           "taxonomy": "project-category"
         }
       ],
@@ -2209,19 +1665,28 @@
         "interior"
       ],
       "date": "2025-06-25T07:07:53",
-      "image": "content/images/ips_houmsaidi.jpg"
+      "image": "content/images/ips_houmsaidi.jpg",
+      "name": "Homeside Batumi"
     },
     {
-      "slug": "homeside-batumi",
+      "slug": "hilsaid-developmenti",
       "kind": "project",
       "title": {
-        "en": "Homeside Batumi",
-        "ka": "Homeside Batumi"
+        "ka": "ჰილსაიდ დეველოპმენტი",
+        "en": "Hillside Development"
       },
       "excerpt": {
-        "en": ""
+        "ka": ""
       },
       "content": {
+        "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -2236,70 +1701,8 @@
         "en": {}
       },
       "urls": {
-        "en": "https://ips.ge/en/project/homeside-batumi/"
-      },
-      "images": [
-        "content/images/ips_houmsaidi.jpg"
-      ],
-      "featured_image": "content/images/ips_houmsaidi.jpg",
-      "categories": [
-        {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 31,
-          "name": "Facade Project",
-          "slug": "facadte-development",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2025-06-25T07:07:53",
-      "image": "content/images/ips_houmsaidi.jpg"
-    },
-    {
-      "slug": "hilsaid-developmenti",
-      "kind": "project",
-      "title": {
-        "ka": "ჰილსაიდ დეველოპმენტი",
-        "en": "ჰილსაიდ დეველოპმენტი"
-      },
-      "excerpt": {
-        "ka": ""
-      },
-      "content": {
-        "ka": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/hilsaid-developmenti/"
+        "ka": "https://ips.ge/project/hilsaid-developmenti/",
+        "en": "https://ips.ge/en/project/hillside-development/"
       },
       "images": [
         "content/images/ips.ge_hilsaidi.jpg"
@@ -2335,14 +1738,15 @@
         "facade"
       ],
       "date": "2025-06-25T06:51:04",
-      "image": "content/images/ips.ge_hilsaidi.jpg"
+      "image": "content/images/ips.ge_hilsaidi.jpg",
+      "name": "Hillside Development"
     },
     {
-      "slug": "hillside-development",
+      "slug": "gold-coast",
       "kind": "project",
       "title": {
-        "en": "Hillside Development",
-        "ka": "Hillside Development"
+        "ka": "ოქროს სანაპირო",
+        "en": "Gold Coast"
       },
       "excerpt": {
         "en": ""
@@ -2355,62 +1759,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/hillside-development/"
-      },
-      "images": [
-        "content/images/ips.ge_hilsaidi.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_hilsaidi.jpg",
-      "categories": [
-        {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 31,
-          "name": "Facade Project",
-          "slug": "facadte-development",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2025-06-25T06:51:04",
-      "image": "content/images/ips.ge_hilsaidi.jpg"
-    },
-    {
-      "slug": "okhros-sanapiro",
-      "kind": "project",
-      "title": {
-        "ka": "ოქროს სანაპირო",
-        "en": "ოქროს სანაპირო"
-      },
-      "excerpt": {
-        "ka": ""
-      },
-      "content": {
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -2425,6 +1774,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/gold-coast/",
         "ka": "https://ips.ge/project/okhros-sanapiro/"
       },
       "images": [
@@ -2433,63 +1783,6 @@
       "featured_image": "content/images/golden-shore.jpg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-11-27T18:32:27",
-      "image": "content/images/golden-shore.jpg"
-    },
-    {
-      "slug": "gold-coast",
-      "kind": "project",
-      "title": {
-        "en": "Gold Coast",
-        "ka": "Gold Coast"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/gold-coast/"
-      },
-      "images": [
-        "content/images/golden-shore.jpg"
-      ],
-      "featured_image": "content/images/golden-shore.jpg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -2512,19 +1805,28 @@
         "facade"
       ],
       "date": "2024-11-27T18:32:27",
-      "image": "content/images/golden-shore.jpg"
+      "image": "content/images/golden-shore.jpg",
+      "name": "Gold Coast"
     },
     {
-      "slug": "hitlon-hemptonsi",
+      "slug": "hilton-hamptons",
       "kind": "project",
       "title": {
         "ka": "ჰემპტონი ჰილტონისგან",
-        "en": "ჰემპტონი ჰილტონისგან"
+        "en": "Hampton by Hilton"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -2539,6 +1841,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/hilton-hamptons/",
         "ka": "https://ips.ge/project/hitlon-hemptonsi/"
       },
       "images": [
@@ -2547,63 +1850,6 @@
       "featured_image": "content/images/ips.ge_hampton-by-hilton.jpg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-11-27T18:23:32",
-      "image": "content/images/ips.ge_hampton-by-hilton.jpg"
-    },
-    {
-      "slug": "hilton-hamptons",
-      "kind": "project",
-      "title": {
-        "en": "Hampton by Hilton",
-        "ka": "Hampton by Hilton"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/hilton-hamptons/"
-      },
-      "images": [
-        "content/images/ips.ge_hampton-by-hilton.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_hampton-by-hilton.jpg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -2626,14 +1872,15 @@
         "facade"
       ],
       "date": "2024-11-27T18:23:32",
-      "image": "content/images/ips.ge_hampton-by-hilton.jpg"
+      "image": "content/images/ips.ge_hampton-by-hilton.jpg",
+      "name": "Hampton by Hilton"
     },
     {
       "slug": "ais-arena",
       "kind": "project",
       "title": {
         "ka": "აის არენა",
-        "en": "აის არენა"
+        "en": "Ice Arena"
       },
       "excerpt": {
         "ka": ""
@@ -2646,56 +1893,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/ais-arena/"
-      },
-      "images": [
-        "content/images/ips.ge_ice-arena.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_ice-arena.jpg",
-      "categories": [
-        {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-11-27T18:19:08",
-      "image": "content/images/ips.ge_ice-arena.jpg"
-    },
-    {
-      "slug": "ice-arena",
-      "kind": "project",
-      "title": {
-        "en": "Ice Arena",
-        "ka": "Ice Arena"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -2710,6 +1908,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/ais-arena/",
         "en": "https://ips.ge/en/project/ice-arena/"
       },
       "images": [
@@ -2718,63 +1917,6 @@
       "featured_image": "content/images/ips.ge_ice-arena.jpg",
       "categories": [
         {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-11-27T18:19:08",
-      "image": "content/images/ips.ge_ice-arena.jpg"
-    },
-    {
-      "slug": "gonios-vilebi",
-      "kind": "project",
-      "title": {
-        "ka": "გონიოს ვილები",
-        "en": "გონიოს ვილები"
-      },
-      "excerpt": {
-        "ka": ""
-      },
-      "content": {
-        "ka": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/gonios-vilebi/"
-      },
-      "images": [
-        "content/images/ips.ge_villas-of-gonio.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_villas-of-gonio.jpg",
-      "categories": [
-        {
           "id": 54,
           "name": "ფასადი",
           "slug": "facade-2",
@@ -2796,20 +1938,29 @@
       "types": [
         "facade"
       ],
-      "date": "2024-11-27T16:23:49",
-      "image": "content/images/ips.ge_villas-of-gonio.jpg"
+      "date": "2024-11-27T18:19:08",
+      "image": "content/images/ips.ge_ice-arena.jpg",
+      "name": "Ice Arena"
     },
     {
-      "slug": "villas-of-gonio",
+      "slug": "gonios-vilebi",
       "kind": "project",
       "title": {
-        "en": "Villas of Gonio",
-        "ka": "Villas of Gonio"
+        "ka": "გონიოს ვილები",
+        "en": "Villas of Gonio"
       },
       "excerpt": {
-        "en": ""
+        "ka": ""
       },
       "content": {
+        "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -2824,6 +1975,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/gonios-vilebi/",
         "en": "https://ips.ge/en/project/villas-of-gonio/"
       },
       "images": [
@@ -2832,63 +1984,6 @@
       "featured_image": "content/images/ips.ge_villas-of-gonio.jpg",
       "categories": [
         {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-11-27T16:23:49",
-      "image": "content/images/ips.ge_villas-of-gonio.jpg"
-    },
-    {
-      "slug": "arkhi-riverthauni",
-      "kind": "project",
-      "title": {
-        "ka": "არქი რივერთაუნი",
-        "en": "არქი რივერთაუნი"
-      },
-      "excerpt": {
-        "ka": ""
-      },
-      "content": {
-        "ka": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/arkhi-riverthauni/"
-      },
-      "images": [
-        "content/images/archi-rivertown.jpg"
-      ],
-      "featured_image": "content/images/archi-rivertown.jpg",
-      "categories": [
-        {
           "id": 54,
           "name": "ფასადი",
           "slug": "facade-2",
@@ -2910,21 +2005,30 @@
       "types": [
         "facade"
       ],
-      "date": "2024-11-27T15:58:42",
-      "image": "content/images/archi-rivertown.jpg"
+      "date": "2024-11-27T16:23:49",
+      "image": "content/images/ips.ge_villas-of-gonio.jpg",
+      "name": "Villas of Gonio"
     },
     {
       "slug": "archi-rivertown",
       "kind": "project",
       "title": {
-        "en": "Archi Rivertown",
-        "ka": "Archi Rivertown"
+        "ka": "არქი რივერთაუნი",
+        "en": "Archi Rivertown"
       },
       "excerpt": {
         "en": ""
       },
       "content": {
         "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "ka": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -2938,7 +2042,8 @@
         "en": {}
       },
       "urls": {
-        "en": "https://ips.ge/en/project/archi-rivertown/"
+        "en": "https://ips.ge/en/project/archi-rivertown/",
+        "ka": "https://ips.ge/project/arkhi-riverthauni/"
       },
       "images": [
         "content/images/archi-rivertown.jpg"
@@ -2968,7 +2073,8 @@
         "facade"
       ],
       "date": "2024-11-27T15:58:42",
-      "image": "content/images/archi-rivertown.jpg"
+      "image": "content/images/archi-rivertown.jpg",
+      "name": "Archi Rivertown"
     },
     {
       "slug": "kings-garden",
@@ -3056,16 +2162,24 @@
       "image": "content/images/kings-garden.jpg"
     },
     {
-      "slug": "real-palasi-bathumi",
+      "slug": "real-palace-batumi",
       "kind": "project",
       "title": {
         "ka": "რეალ პალასი ( ბათუმი)",
-        "en": "რეალ პალასი ( ბათუმი)"
+        "en": "Real Palace (Batumi)"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -3080,6 +2194,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/real-palace-batumi/",
         "ka": "https://ips.ge/project/real-palasi-bathumi/"
       },
       "images": [
@@ -3088,64 +2203,6 @@
       "featured_image": "content/images/real-palace-batumi.jpg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade",
-        "interior"
-      ],
-      "date": "2024-07-30T00:11:59",
-      "image": "content/images/real-palace-batumi.jpg"
-    },
-    {
-      "slug": "real-palace-batumi",
-      "kind": "project",
-      "title": {
-        "en": "Real Palace (Batumi)",
-        "ka": "Real Palace (Batumi)"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/real-palace-batumi/"
-      },
-      "images": [
-        "content/images/real-palace-batumi.jpg"
-      ],
-      "featured_image": "content/images/real-palace-batumi.jpg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -3165,22 +2222,32 @@
         }
       ],
       "types": [
-        "facade"
+        "facade",
+        "interior"
       ],
       "date": "2024-07-30T00:11:59",
-      "image": "content/images/real-palace-batumi.jpg"
+      "image": "content/images/real-palace-batumi.jpg",
+      "name": "Real Palace (Batumi)"
     },
     {
-      "slug": "ibis-aeroporti",
+      "slug": "ibis-airport",
       "kind": "project",
       "title": {
         "ka": "იბის აეროპორტი",
-        "en": "იბის აეროპორტი"
+        "en": "Ibis Airport"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -3195,6 +2262,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/ibis-airport/",
         "ka": "https://ips.ge/project/ibis-aeroporti/"
       },
       "images": [
@@ -3203,63 +2271,6 @@
       "featured_image": "content/images/ips.ge_ibis-airport.jpg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-07-30T00:08:57",
-      "image": "content/images/ips.ge_ibis-airport.jpg"
-    },
-    {
-      "slug": "ibis-airport",
-      "kind": "project",
-      "title": {
-        "en": "Ibis Airport",
-        "ka": "Ibis Airport"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/ibis-airport/"
-      },
-      "images": [
-        "content/images/ips.ge_ibis-airport.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_ibis-airport.jpg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -3282,19 +2293,28 @@
         "facade"
       ],
       "date": "2024-07-30T00:08:57",
-      "image": "content/images/ips.ge_ibis-airport.jpg"
+      "image": "content/images/ips.ge_ibis-airport.jpg",
+      "name": "Ibis Airport"
     },
     {
-      "slug": "shato-mephiskhalakhi",
+      "slug": "chateau-mepiskalaki",
       "kind": "project",
       "title": {
         "ka": "შატო მეფისქალაქი",
-        "en": "შატო მეფისქალაქი"
+        "en": "Chateau Mepiskalaki"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -3309,6 +2329,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/chateau-mepiskalaki/",
         "ka": "https://ips.ge/project/shato-mephiskhalakhi/"
       },
       "images": [
@@ -3317,63 +2338,6 @@
       "featured_image": "content/images/chateau-mefis-kalaki.jpeg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-07-30T00:02:50",
-      "image": "content/images/chateau-mefis-kalaki.jpeg"
-    },
-    {
-      "slug": "chateau-mepiskalaki",
-      "kind": "project",
-      "title": {
-        "en": "Chateau Mepiskalaki",
-        "ka": "Chateau Mepiskalaki"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/chateau-mepiskalaki/"
-      },
-      "images": [
-        "content/images/chateau-mefis-kalaki.jpeg"
-      ],
-      "featured_image": "content/images/chateau-mefis-kalaki.jpeg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -3396,19 +2360,28 @@
         "facade"
       ],
       "date": "2024-07-30T00:02:50",
-      "image": "content/images/chateau-mefis-kalaki.jpeg"
+      "image": "content/images/chateau-mefis-kalaki.jpeg",
+      "name": "Chateau Mepiskalaki"
     },
     {
-      "slug": "aka-developmenti-satskhovrebeli-komplekhsi-dighomshi",
+      "slug": "aka-development-residential-complex-in-dighomi",
       "kind": "project",
       "title": {
         "ka": "აკა დეველოპმენტი (საცხოვრებელი კომპლექსი დიღომში)",
-        "en": "აკა დეველოპმენტი (საცხოვრებელი კომპლექსი დიღომში)"
+        "en": "Aka Development (Residential complex in Dighomi)"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -3423,6 +2396,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/aka-development-residential-complex-in-dighomi/",
         "ka": "https://ips.ge/project/aka-developmenti-satskhovrebeli-komplekhsi-dighomshi/"
       },
       "images": [
@@ -3431,63 +2405,6 @@
       "featured_image": "content/images/aka-development-dighomi.jpg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-07-29T23:47:44",
-      "image": "content/images/aka-development-dighomi.jpg"
-    },
-    {
-      "slug": "aka-development-residential-complex-in-dighomi",
-      "kind": "project",
-      "title": {
-        "en": "Aka Development (Residential complex in Dighomi)",
-        "ka": "Aka Development (Residential complex in Dighomi)"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/aka-development-residential-complex-in-dighomi/"
-      },
-      "images": [
-        "content/images/aka-development-dighomi.jpg"
-      ],
-      "featured_image": "content/images/aka-development-dighomi.jpg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -3510,19 +2427,28 @@
         "facade"
       ],
       "date": "2024-07-29T23:47:44",
-      "image": "content/images/aka-development-dighomi.jpg"
+      "image": "content/images/aka-development-dighomi.jpg",
+      "name": "Aka Development (Residential complex in Dighomi)"
     },
     {
-      "slug": "eras-moedani-bathumshi",
+      "slug": "era-square-in-batumi",
       "kind": "project",
       "title": {
         "ka": "ევროპის მოედანი",
-        "en": "ევროპის მოედანი"
+        "en": "Era Square in Batumi"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -3537,59 +2463,8 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/era-square-in-batumi/",
         "ka": "https://ips.ge/project/eras-moedani-bathumshi/"
-      },
-      "images": [
-        "content/images/era-square-batumi.jpg"
-      ],
-      "featured_image": "content/images/era-square-batumi.jpg",
-      "categories": [
-        {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade",
-        "interior"
-      ],
-      "date": "2024-07-29T23:37:58",
-      "image": "content/images/era-square-batumi.jpg"
-    },
-    {
-      "slug": "era-square-in-batumi",
-      "kind": "project",
-      "title": {
-        "en": "Era Square in Batumi",
-        "ka": "Era Square in Batumi"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/era-square-in-batumi/"
       },
       "images": [
         "content/images/era-square-batumi.jpg"
@@ -3610,22 +2485,32 @@
         }
       ],
       "types": [
-        "facade"
+        "facade",
+        "interior"
       ],
       "date": "2024-07-29T23:37:58",
-      "image": "content/images/era-square-batumi.jpg"
+      "image": "content/images/era-square-batumi.jpg",
+      "name": "Era Square in Batumi"
     },
     {
-      "slug": "mariot-avtograph-thbilisi-thavisuphlebis-moedani",
+      "slug": "marriott-autograph-tbilisi-freedom-square",
       "kind": "project",
       "title": {
         "ka": "მარიოტ ავტოგრაფ თბილისი თავისუფლების მოედანი",
-        "en": "მარიოტ ავტოგრაფ თბილისი თავისუფლების მოედანი"
+        "en": "Marriott Autograph Tbilisi Freedom Square"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -3640,6 +2525,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/marriott-autograph-tbilisi-freedom-square/",
         "ka": "https://ips.ge/project/mariot-avtograph-thbilisi-thavisuphlebis-moedani/"
       },
       "images": [
@@ -3648,57 +2534,6 @@
       "featured_image": "content/images/mariott-autograph-tbilisi-freedom-square.jpg",
       "categories": [
         {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-07-29T21:58:31",
-      "image": "content/images/mariott-autograph-tbilisi-freedom-square.jpg"
-    },
-    {
-      "slug": "marriott-autograph-tbilisi-freedom-square",
-      "kind": "project",
-      "title": {
-        "en": "Marriott Autograph Tbilisi Freedom Square",
-        "ka": "Marriott Autograph Tbilisi Freedom Square"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/marriott-autograph-tbilisi-freedom-square/"
-      },
-      "images": [
-        "content/images/mariott-autograph-tbilisi-freedom-square.jpg"
-      ],
-      "featured_image": "content/images/mariott-autograph-tbilisi-freedom-square.jpg",
-      "categories": [
-        {
           "id": 34,
           "name": "Interior",
           "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
@@ -3715,19 +2550,28 @@
         "interior"
       ],
       "date": "2024-07-29T21:58:31",
-      "image": "content/images/mariott-autograph-tbilisi-freedom-square.jpg"
+      "image": "content/images/mariott-autograph-tbilisi-freedom-square.jpg",
+      "name": "Marriott Autograph Tbilisi Freedom Square"
     },
     {
-      "slug": "armani-shoph",
+      "slug": "armani-shop",
       "kind": "project",
       "title": {
         "ka": "არმანის მაღაზია თბილისში",
-        "en": "არმანის მაღაზია თბილისში"
+        "en": "Armani store in Tbilisi"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -3742,6 +2586,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/armani-shop/",
         "ka": "https://ips.ge/project/armani-shoph/"
       },
       "images": [
@@ -3750,57 +2595,6 @@
       "featured_image": "content/images/armani-shop.jpg",
       "categories": [
         {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-07-29T21:16:14",
-      "image": "content/images/armani-shop.jpg"
-    },
-    {
-      "slug": "armani-shop",
-      "kind": "project",
-      "title": {
-        "en": "Armani store in Tbilisi",
-        "ka": "Armani store in Tbilisi"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/armani-shop/"
-      },
-      "images": [
-        "content/images/armani-shop.jpg"
-      ],
-      "featured_image": "content/images/armani-shop.jpg",
-      "categories": [
-        {
           "id": 34,
           "name": "Interior",
           "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
@@ -3817,19 +2611,28 @@
         "interior"
       ],
       "date": "2024-07-29T21:16:14",
-      "image": "content/images/armani-shop.jpg"
+      "image": "content/images/armani-shop.jpg",
+      "name": "Armani store in Tbilisi"
     },
     {
-      "slug": "thbilisi-authleti",
+      "slug": "tbilisi-outlet",
       "kind": "project",
       "title": {
         "ka": "თბილისი აუთლეტი",
-        "en": "თბილისი აუთლეტი"
+        "en": "Tbilisi Outlet"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -3844,6 +2647,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/tbilisi-outlet/",
         "ka": "https://ips.ge/project/thbilisi-authleti/"
       },
       "images": [
@@ -3852,57 +2656,6 @@
       "featured_image": "content/images/ips.ge_tbilisi-outlet.jpg",
       "categories": [
         {
-          "id": 63,
-          "name": "სამშენებლო მასალების მიწოდება",
-          "slug": "building-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 62,
-          "name": "თრეიდი",
-          "slug": "trade-3",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "project"
-      ],
-      "date": "2024-07-29T20:53:52",
-      "image": "content/images/ips.ge_tbilisi-outlet.jpg"
-    },
-    {
-      "slug": "tbilisi-outlet",
-      "kind": "project",
-      "title": {
-        "en": "Tbilisi Outlet",
-        "ka": "Tbilisi Outlet"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/tbilisi-outlet/"
-      },
-      "images": [
-        "content/images/ips.ge_tbilisi-outlet.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_tbilisi-outlet.jpg",
-      "categories": [
-        {
           "id": 38,
           "name": "Trade",
           "slug": "trade",
@@ -3919,19 +2672,28 @@
         "project"
       ],
       "date": "2024-07-29T20:53:52",
-      "image": "content/images/ips.ge_tbilisi-outlet.jpg"
+      "image": "content/images/ips.ge_tbilisi-outlet.jpg",
+      "name": "Tbilisi Outlet"
     },
     {
-      "slug": "kass-lendi",
+      "slug": "cass-land",
       "kind": "project",
       "title": {
         "ka": "კასს ლენდი",
-        "en": "კასს ლენდი"
+        "en": "Cass Land"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -3946,6 +2708,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/cass-land/",
         "ka": "https://ips.ge/project/kass-lendi/"
       },
       "images": [
@@ -3954,57 +2717,6 @@
       "featured_image": "content/images/cass-land.jpg",
       "categories": [
         {
-          "id": 63,
-          "name": "სამშენებლო მასალების მიწოდება",
-          "slug": "building-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 62,
-          "name": "თრეიდი",
-          "slug": "trade-3",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "project"
-      ],
-      "date": "2024-07-29T20:49:33",
-      "image": "content/images/cass-land.jpg"
-    },
-    {
-      "slug": "cass-land",
-      "kind": "project",
-      "title": {
-        "en": "Cass Land",
-        "ka": "Cass Land"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/cass-land/"
-      },
-      "images": [
-        "content/images/cass-land.jpg"
-      ],
-      "featured_image": "content/images/cass-land.jpg",
-      "categories": [
-        {
           "id": 38,
           "name": "Trade",
           "slug": "trade",
@@ -4021,14 +2733,15 @@
         "project"
       ],
       "date": "2024-07-29T20:49:33",
-      "image": "content/images/cass-land.jpg"
+      "image": "content/images/cass-land.jpg",
+      "name": "Cass Land"
     },
     {
       "slug": "alians-hailaini",
       "kind": "project",
       "title": {
         "ka": "ალიანს ჰაილაინი",
-        "en": "ალიანს ჰაილაინი"
+        "en": "Alliance Highline"
       },
       "excerpt": {
         "ka": ""
@@ -4041,50 +2754,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/alians-hailaini/"
-      },
-      "images": [
-        "content/images/alliance-highline.png"
-      ],
-      "featured_image": "content/images/alliance-highline.png",
-      "categories": [
-        {
-          "id": 63,
-          "name": "სამშენებლო მასალების მიწოდება",
-          "slug": "building-supply-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 62,
-          "name": "თრეიდი",
-          "slug": "trade-3",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "project"
-      ],
-      "date": "2024-07-29T20:45:39",
-      "image": "content/images/alliance-highline.png"
-    },
-    {
-      "slug": "alliance-highline",
-      "kind": "project",
-      "title": {
-        "en": "Alliance Highline",
-        "ka": "Alliance Highline"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -4099,6 +2769,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/alians-hailaini/",
         "en": "https://ips.ge/en/project/alliance-highline/"
       },
       "images": [
@@ -4107,15 +2778,15 @@
       "featured_image": "content/images/alliance-highline.png",
       "categories": [
         {
-          "id": 38,
-          "name": "Trade",
-          "slug": "trade",
+          "id": 63,
+          "name": "სამშენებლო მასალების მიწოდება",
+          "slug": "building-supply-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 39,
-          "name": "Buliding Materials Supply",
-          "slug": "building-supply",
+          "id": 62,
+          "name": "თრეიდი",
+          "slug": "trade-3",
           "taxonomy": "project-category"
         }
       ],
@@ -4123,14 +2794,15 @@
         "project"
       ],
       "date": "2024-07-29T20:45:39",
-      "image": "content/images/alliance-highline.png"
+      "image": "content/images/alliance-highline.png",
+      "name": "Alliance Highline"
     },
     {
       "slug": "mariott-hotel-yerevan",
       "kind": "project",
       "title": {
         "ka": "სასტუმრო მარიოტ ერევანი",
-        "en": "სასტუმრო მარიოტ ერევანი"
+        "en": "Marriott Hotel Yerevan"
       },
       "excerpt": {
         "ka": ""
@@ -4143,50 +2815,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/mariott-hotel-yerevan/"
-      },
-      "images": [
-        "content/images/mariott-hotel-yerevan.jpeg"
-      ],
-      "featured_image": "content/images/mariott-hotel-yerevan.jpeg",
-      "categories": [
-        {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T04:05:10",
-      "image": "content/images/mariott-hotel-yerevan.jpeg"
-    },
-    {
-      "slug": "marriott-hotel-yerevan",
-      "kind": "project",
-      "title": {
-        "en": "Marriott Hotel Yerevan",
-        "ka": "Marriott Hotel Yerevan"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -4201,6 +2830,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/mariott-hotel-yerevan/",
         "en": "https://ips.ge/en/project/marriott-hotel-yerevan/"
       },
       "images": [
@@ -4209,15 +2839,15 @@
       "featured_image": "content/images/mariott-hotel-yerevan.jpeg",
       "categories": [
         {
-          "id": 34,
-          "name": "Interior",
-          "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
+          "id": 58,
+          "name": "ინტერიერი",
+          "slug": "interieri-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 36,
-          "name": "Interior Supply",
-          "slug": "interior-supply",
+          "id": 60,
+          "name": "ინტერიერის მასალების მიწოდება",
+          "slug": "interior-supply-2",
           "taxonomy": "project-category"
         }
       ],
@@ -4225,19 +2855,28 @@
         "interior"
       ],
       "date": "2024-06-28T04:05:10",
-      "image": "content/images/mariott-hotel-yerevan.jpeg"
+      "image": "content/images/mariott-hotel-yerevan.jpeg",
+      "name": "Marriott Hotel Yerevan"
     },
     {
-      "slug": "casino-colloseum",
+      "slug": "casino-coliseum",
       "kind": "project",
       "title": {
         "ka": "კაზინო კოლიზეუმი",
-        "en": "კაზინო კოლიზეუმი"
+        "en": "Casino Coliseum"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -4252,6 +2891,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/casino-coliseum/",
         "ka": "https://ips.ge/project/casino-colloseum/"
       },
       "images": [
@@ -4260,57 +2900,6 @@
       "featured_image": "content/images/casino-colosseum.jpeg",
       "categories": [
         {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T04:04:16",
-      "image": "content/images/casino-colosseum.jpeg"
-    },
-    {
-      "slug": "casino-coliseum",
-      "kind": "project",
-      "title": {
-        "en": "Casino Coliseum",
-        "ka": "Casino Coliseum"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/casino-coliseum/"
-      },
-      "images": [
-        "content/images/casino-colosseum.jpeg"
-      ],
-      "featured_image": "content/images/casino-colosseum.jpeg",
-      "categories": [
-        {
           "id": 34,
           "name": "Interior",
           "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
@@ -4327,14 +2916,15 @@
         "interior"
       ],
       "date": "2024-06-28T04:04:16",
-      "image": "content/images/casino-colosseum.jpeg"
+      "image": "content/images/casino-colosseum.jpeg",
+      "name": "Casino Coliseum"
     },
     {
       "slug": "hotel-karvasla",
       "kind": "project",
       "title": {
         "ka": "სასტუმრო ქარვასლა",
-        "en": "სასტუმრო ქარვასლა"
+        "en": "Karvasla Hotel"
       },
       "excerpt": {
         "ka": ""
@@ -4347,6 +2937,14 @@
           "images": [],
           "html": "",
           "text": ""
+        },
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
         }
       },
       "fields": {
@@ -4354,7 +2952,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/hotel-karvasla/"
+        "ka": "https://ips.ge/project/hotel-karvasla/",
+        "en": "https://ips.ge/en/project/karvasla-hotel/"
       },
       "images": [
         "content/images/ips.ge_qarvasla.jpg"
@@ -4378,58 +2977,8 @@
         "interior"
       ],
       "date": "2024-06-28T04:03:33",
-      "image": "content/images/ips.ge_qarvasla.jpg"
-    },
-    {
-      "slug": "karvasla-hotel",
-      "kind": "project",
-      "title": {
-        "en": "Karvasla Hotel",
-        "ka": "Karvasla Hotel"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/karvasla-hotel/"
-      },
-      "images": [
-        "content/images/ips.ge_qarvasla.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_qarvasla.jpg",
-      "categories": [
-        {
-          "id": 34,
-          "name": "Interior",
-          "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 36,
-          "name": "Interior Supply",
-          "slug": "interior-supply",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T04:03:33",
-      "image": "content/images/ips.ge_qarvasla.jpg"
+      "image": "content/images/ips.ge_qarvasla.jpg",
+      "name": "Karvasla Hotel"
     },
     {
       "slug": "hilton-garden-inn-riverside",
@@ -4509,13 +3058,21 @@
       "kind": "project",
       "title": {
         "ka": "სასტუმრო ‘თვინს ოტელი’",
-        "en": "სასტუმრო ‘თვინს ოტელი’"
+        "en": "Hotel “Twins Hotel”"
       },
       "excerpt": {
         "ka": ""
       },
       "content": {
         "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "en": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -4529,7 +3086,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/twins-hotel/"
+        "ka": "https://ips.ge/project/twins-hotel/",
+        "en": "https://ips.ge/en/project/hotel-twins-hotel/"
       },
       "images": [
         "content/images/twins-hotel.jpg"
@@ -4553,58 +3111,8 @@
         "interior"
       ],
       "date": "2024-06-28T04:01:37",
-      "image": "content/images/twins-hotel.jpg"
-    },
-    {
-      "slug": "hotel-twins-hotel",
-      "kind": "project",
-      "title": {
-        "en": "Hotel “Twins Hotel”",
-        "ka": "Hotel “Twins Hotel”"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/hotel-twins-hotel/"
-      },
-      "images": [
-        "content/images/twins-hotel.jpg"
-      ],
-      "featured_image": "content/images/twins-hotel.jpg",
-      "categories": [
-        {
-          "id": 34,
-          "name": "Interior",
-          "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 36,
-          "name": "Interior Supply",
-          "slug": "interior-supply",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T04:01:37",
-      "image": "content/images/twins-hotel.jpg"
+      "image": "content/images/twins-hotel.jpg",
+      "name": "Hotel “Twins Hotel”"
     },
     {
       "slug": "radisson-red",
@@ -4684,13 +3192,21 @@
       "kind": "project",
       "title": {
         "ka": "სასტუმრო ბროსეს ქუჩაზე",
-        "en": "სასტუმრო ბროსეს ქუჩაზე"
+        "en": "Hotel on Brose Street"
       },
       "excerpt": {
         "ka": ""
       },
       "content": {
         "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "en": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -4704,7 +3220,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/brosce-street-hotel/"
+        "ka": "https://ips.ge/project/brosce-street-hotel/",
+        "en": "https://ips.ge/en/project/hotel-on-brose-street/"
       },
       "images": [
         "content/images/projectsbrose.png"
@@ -4728,58 +3245,8 @@
         "interior"
       ],
       "date": "2024-06-28T03:59:52",
-      "image": "content/images/projectsbrose.png"
-    },
-    {
-      "slug": "hotel-on-brose-street",
-      "kind": "project",
-      "title": {
-        "en": "Hotel on Brose Street",
-        "ka": "Hotel on Brose Street"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/hotel-on-brose-street/"
-      },
-      "images": [
-        "content/images/projectsbrose.png"
-      ],
-      "featured_image": "content/images/projectsbrose.png",
-      "categories": [
-        {
-          "id": 34,
-          "name": "Interior",
-          "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 36,
-          "name": "Interior Supply",
-          "slug": "interior-supply",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:59:52",
-      "image": "content/images/projectsbrose.png"
+      "image": "content/images/projectsbrose.png",
+      "name": "Hotel on Brose Street"
     },
     {
       "slug": "mariott-autograph-tbilisi-freedom-square",
@@ -5098,16 +3565,24 @@
       "image": "content/images/porta.png"
     },
     {
-      "slug": "radisson-blu-tsinandali",
+      "slug": "radisson-tsinandali",
       "kind": "project",
       "title": {
         "ka": "რადისონ წინანდალი",
-        "en": "რადისონ წინანდალი"
+        "en": "Radisson Tsinandali"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -5122,58 +3597,8 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/radisson-tsinandali/",
         "ka": "https://ips.ge/project/radisson-blu-tsinandali/"
-      },
-      "images": [
-        "content/images/radison-blu-tsinandali.webp"
-      ],
-      "featured_image": "content/images/radison-blu-tsinandali.webp",
-      "categories": [
-        {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:54:49",
-      "image": "content/images/radison-blu-tsinandali.webp"
-    },
-    {
-      "slug": "radisson-tsinandali",
-      "kind": "project",
-      "title": {
-        "en": "Radisson Tsinandali",
-        "ka": "Radisson Tsinandali"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/radisson-tsinandali/"
       },
       "images": [
         "content/images/radison-blu-tsinandali.webp"
@@ -5197,7 +3622,8 @@
         "interior"
       ],
       "date": "2024-06-28T03:54:49",
-      "image": "content/images/radison-blu-tsinandali.webp"
+      "image": "content/images/radison-blu-tsinandali.webp",
+      "name": "Radisson Tsinandali"
     },
     {
       "slug": "hilton-garden-inn",
@@ -5277,13 +3703,21 @@
       "kind": "project",
       "title": {
         "ka": "იბის თბილისი სტადიუმ",
-        "en": "იბის თბილისი სტადიუმ"
+        "en": "Ibis Tbilisi Stadium"
       },
       "excerpt": {
         "ka": ""
       },
       "content": {
         "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "en": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -5297,7 +3731,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/ibis-stadium/"
+        "ka": "https://ips.ge/project/ibis-stadium/",
+        "en": "https://ips.ge/en/project/ibis-tbilisi-stadium/"
       },
       "images": [
         "content/images/ibis-stadium.jpeg"
@@ -5321,58 +3756,8 @@
         "interior"
       ],
       "date": "2024-06-28T03:52:57",
-      "image": "content/images/ibis-stadium.jpeg"
-    },
-    {
-      "slug": "ibis-tbilisi-stadium",
-      "kind": "project",
-      "title": {
-        "en": "Ibis Tbilisi Stadium",
-        "ka": "Ibis Tbilisi Stadium"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/ibis-tbilisi-stadium/"
-      },
-      "images": [
-        "content/images/ibis-stadium.jpeg"
-      ],
-      "featured_image": "content/images/ibis-stadium.jpeg",
-      "categories": [
-        {
-          "id": 34,
-          "name": "Interior",
-          "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 36,
-          "name": "Interior Supply",
-          "slug": "interior-supply",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:52:57",
-      "image": "content/images/ibis-stadium.jpeg"
+      "image": "content/images/ibis-stadium.jpeg",
+      "name": "Ibis Tbilisi Stadium"
     },
     {
       "slug": "palm-beach-apartments",
@@ -5476,7 +3861,7 @@
       "kind": "project",
       "title": {
         "ka": "თბილისი მარიოტი",
-        "en": "თბილისი მარიოტი"
+        "en": "Tbilisi Marriott"
       },
       "excerpt": {
         "ka": ""
@@ -5489,50 +3874,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/tbilisi-marriot/"
-      },
-      "images": [
-        "content/images/tbilisi-mariott.jpeg"
-      ],
-      "featured_image": "content/images/tbilisi-mariott.jpeg",
-      "categories": [
-        {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:50:57",
-      "image": "content/images/tbilisi-mariott.jpeg"
-    },
-    {
-      "slug": "tbilisi-marriott",
-      "kind": "project",
-      "title": {
-        "en": "Tbilisi Marriott",
-        "ka": "Tbilisi Marriott"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -5547,6 +3889,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/tbilisi-marriot/",
         "en": "https://ips.ge/en/project/tbilisi-marriott/"
       },
       "images": [
@@ -5555,15 +3898,15 @@
       "featured_image": "content/images/tbilisi-mariott.jpeg",
       "categories": [
         {
-          "id": 34,
-          "name": "Interior",
-          "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
+          "id": 58,
+          "name": "ინტერიერი",
+          "slug": "interieri-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 36,
-          "name": "Interior Supply",
-          "slug": "interior-supply",
+          "id": 60,
+          "name": "ინტერიერის მასალების მიწოდება",
+          "slug": "interior-supply-2",
           "taxonomy": "project-category"
         }
       ],
@@ -5571,19 +3914,28 @@
         "interior"
       ],
       "date": "2024-06-28T03:50:57",
-      "image": "content/images/tbilisi-mariott.jpeg"
+      "image": "content/images/tbilisi-mariott.jpeg",
+      "name": "Tbilisi Marriott"
     },
     {
-      "slug": "galleria-tbilisi",
+      "slug": "galeria-tbilisi",
       "kind": "project",
       "title": {
         "ka": "გალერია თბილისი",
-        "en": "გალერია თბილისი"
+        "en": "Galeria Tbilisi"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -5598,6 +3950,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/galeria-tbilisi/",
         "ka": "https://ips.ge/project/galleria-tbilisi/"
       },
       "images": [
@@ -5606,57 +3959,6 @@
       "featured_image": "content/images/galleria-tbilisi.jpeg",
       "categories": [
         {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:50:08",
-      "image": "content/images/galleria-tbilisi.jpeg"
-    },
-    {
-      "slug": "galeria-tbilisi",
-      "kind": "project",
-      "title": {
-        "en": "Galeria Tbilisi",
-        "ka": "Galeria Tbilisi"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/galeria-tbilisi/"
-      },
-      "images": [
-        "content/images/galleria-tbilisi.jpeg"
-      ],
-      "featured_image": "content/images/galleria-tbilisi.jpeg",
-      "categories": [
-        {
           "id": 34,
           "name": "Interior",
           "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
@@ -5673,14 +3975,15 @@
         "interior"
       ],
       "date": "2024-06-28T03:50:08",
-      "image": "content/images/galleria-tbilisi.jpeg"
+      "image": "content/images/galleria-tbilisi.jpeg",
+      "name": "Galeria Tbilisi"
     },
     {
       "slug": "sheraton-metekhi-palace",
       "kind": "project",
       "title": {
         "ka": "შერატონ გრანდ თბილისი მეტეხი პალასი",
-        "en": "შერატონ გრანდ თბილისი მეტეხი პალასი"
+        "en": "Sheraton Grand Tbilisi Metekhi Palace"
       },
       "excerpt": {
         "ka": ""
@@ -5693,50 +3996,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/sheraton-metekhi-palace/"
-      },
-      "images": [
-        "content/images/projectssheratoni.png"
-      ],
-      "featured_image": "content/images/projectssheratoni.png",
-      "categories": [
-        {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:49:18",
-      "image": "content/images/projectssheratoni.png"
-    },
-    {
-      "slug": "sheraton-grand-tbilisi-metekhi-palace",
-      "kind": "project",
-      "title": {
-        "en": "Sheraton Grand Tbilisi Metekhi Palace",
-        "ka": "Sheraton Grand Tbilisi Metekhi Palace"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -5751,6 +4011,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/sheraton-metekhi-palace/",
         "en": "https://ips.ge/en/project/sheraton-grand-tbilisi-metekhi-palace/"
       },
       "images": [
@@ -5759,15 +4020,15 @@
       "featured_image": "content/images/projectssheratoni.png",
       "categories": [
         {
-          "id": 34,
-          "name": "Interior",
-          "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
+          "id": 58,
+          "name": "ინტერიერი",
+          "slug": "interieri-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 36,
-          "name": "Interior Supply",
-          "slug": "interior-supply",
+          "id": 60,
+          "name": "ინტერიერის მასალების მიწოდება",
+          "slug": "interior-supply-2",
           "taxonomy": "project-category"
         }
       ],
@@ -5775,20 +4036,29 @@
         "interior"
       ],
       "date": "2024-06-28T03:49:18",
-      "image": "content/images/projectssheratoni.png"
+      "image": "content/images/projectssheratoni.png",
+      "name": "Sheraton Grand Tbilisi Metekhi Palace"
     },
     {
       "slug": "merani",
       "kind": "project",
       "title": {
         "ka": "მერანი მოლი",
-        "en": "მერანი მოლი"
+        "en": "Merani Mall"
       },
       "excerpt": {
         "ka": ""
       },
       "content": {
         "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "en": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -5802,7 +4072,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/merani/"
+        "ka": "https://ips.ge/project/merani/",
+        "en": "https://ips.ge/en/project/merani-mall/"
       },
       "images": [
         "content/images/projectsmerani.png"
@@ -5826,58 +4097,8 @@
         "interior"
       ],
       "date": "2024-06-28T03:47:55",
-      "image": "content/images/projectsmerani.png"
-    },
-    {
-      "slug": "merani-mall",
-      "kind": "project",
-      "title": {
-        "en": "Merani Mall",
-        "ka": "Merani Mall"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/merani-mall/"
-      },
-      "images": [
-        "content/images/projectsmerani.png"
-      ],
-      "featured_image": "content/images/projectsmerani.png",
-      "categories": [
-        {
-          "id": 34,
-          "name": "Interior",
-          "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 36,
-          "name": "Interior Supply",
-          "slug": "interior-supply",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:47:55",
-      "image": "content/images/projectsmerani.png"
+      "image": "content/images/projectsmerani.png",
+      "name": "Merani Mall"
     },
     {
       "slug": "east-point-tbilisi",
@@ -5953,16 +4174,24 @@
       "image": "content/images/projectseastpoint.png"
     },
     {
-      "slug": "the-biltmore-hotel-tbilisi",
+      "slug": "biltmore-hotel-tbilisi",
       "kind": "project",
       "title": {
         "ka": "სასტუმრო ბილტმორი თბილისი",
-        "en": "სასტუმრო ბილტმორი თბილისი"
+        "en": "Biltmore Hotel Tbilisi"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -5977,6 +4206,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/biltmore-hotel-tbilisi/",
         "ka": "https://ips.ge/project/the-biltmore-hotel-tbilisi/"
       },
       "images": [
@@ -5985,57 +4215,6 @@
       "featured_image": "content/images/projectsbiltmore.png",
       "categories": [
         {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:45:29",
-      "image": "content/images/projectsbiltmore.png"
-    },
-    {
-      "slug": "biltmore-hotel-tbilisi",
-      "kind": "project",
-      "title": {
-        "en": "Biltmore Hotel Tbilisi",
-        "ka": "Biltmore Hotel Tbilisi"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/biltmore-hotel-tbilisi/"
-      },
-      "images": [
-        "content/images/projectsbiltmore.png"
-      ],
-      "featured_image": "content/images/projectsbiltmore.png",
-      "categories": [
-        {
           "id": 34,
           "name": "Interior",
           "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
@@ -6052,14 +4231,15 @@
         "interior"
       ],
       "date": "2024-06-28T03:45:29",
-      "image": "content/images/projectsbiltmore.png"
+      "image": "content/images/projectsbiltmore.png",
+      "name": "Biltmore Hotel Tbilisi"
     },
     {
       "slug": "restaurant-terrasa-askaneli",
       "kind": "project",
       "title": {
         "ka": "რესტორან-ტერასა ასკანელი",
-        "en": "რესტორან-ტერასა ასკანელი"
+        "en": "Restaurant-terrace Askaneli"
       },
       "excerpt": {
         "ka": ""
@@ -6072,50 +4252,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/restaurant-terrasa-askaneli/"
-      },
-      "images": [
-        "content/images/terassa-askaneli.jpeg"
-      ],
-      "featured_image": "content/images/terassa-askaneli.jpeg",
-      "categories": [
-        {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:44:06",
-      "image": "content/images/terassa-askaneli.jpeg"
-    },
-    {
-      "slug": "restaurant-terrace-askaneli",
-      "kind": "project",
-      "title": {
-        "en": "Restaurant-terrace Askaneli",
-        "ka": "Restaurant-terrace Askaneli"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -6130,6 +4267,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/restaurant-terrasa-askaneli/",
         "en": "https://ips.ge/en/project/restaurant-terrace-askaneli/"
       },
       "images": [
@@ -6138,15 +4276,15 @@
       "featured_image": "content/images/terassa-askaneli.jpeg",
       "categories": [
         {
-          "id": 34,
-          "name": "Interior",
-          "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
+          "id": 58,
+          "name": "ინტერიერი",
+          "slug": "interieri-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 36,
-          "name": "Interior Supply",
-          "slug": "interior-supply",
+          "id": 60,
+          "name": "ინტერიერის მასალების მიწოდება",
+          "slug": "interior-supply-2",
           "taxonomy": "project-category"
         }
       ],
@@ -6154,20 +4292,29 @@
         "interior"
       ],
       "date": "2024-06-28T03:44:06",
-      "image": "content/images/terassa-askaneli.jpeg"
+      "image": "content/images/terassa-askaneli.jpeg",
+      "name": "Restaurant-terrace Askaneli"
     },
     {
       "slug": "mariott-shekvetili",
       "kind": "project",
       "title": {
         "ka": "მარიოტ შეკვეთილი",
-        "en": "მარიოტ შეკვეთილი"
+        "en": "Marriott Shekvetili"
       },
       "excerpt": {
         "ka": ""
       },
       "content": {
         "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "en": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -6181,7 +4328,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/mariott-shekvetili/"
+        "ka": "https://ips.ge/project/mariott-shekvetili/",
+        "en": "https://ips.ge/en/project/marriott-shekvetili/"
       },
       "images": [
         "content/images/projectsparagraph.png"
@@ -6205,19 +4353,28 @@
         "interior"
       ],
       "date": "2024-06-28T03:42:35",
-      "image": "content/images/projectsparagraph.png"
+      "image": "content/images/projectsparagraph.png",
+      "name": "Marriott Shekvetili"
     },
     {
-      "slug": "marriott-shekvetili",
+      "slug": "hotel-gallery-palace",
       "kind": "project",
       "title": {
-        "en": "Marriott Shekvetili",
-        "ka": "Marriott Shekvetili"
+        "ka": "სასტუმრო გალერია პალასი",
+        "en": "Hotel Galleria Palace"
       },
       "excerpt": {
-        "en": ""
+        "ka": ""
       },
       "content": {
+        "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -6232,58 +4389,8 @@
         "en": {}
       },
       "urls": {
-        "en": "https://ips.ge/en/project/marriott-shekvetili/"
-      },
-      "images": [
-        "content/images/projectsparagraph.png"
-      ],
-      "featured_image": "content/images/projectsparagraph.png",
-      "categories": [
-        {
-          "id": 34,
-          "name": "Interior",
-          "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 36,
-          "name": "Interior Supply",
-          "slug": "interior-supply",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:42:35",
-      "image": "content/images/projectsparagraph.png"
-    },
-    {
-      "slug": "hotel-gallery-palace",
-      "kind": "project",
-      "title": {
-        "ka": "სასტუმრო გალერია პალასი",
-        "en": "სასტუმრო გალერია პალასი"
-      },
-      "excerpt": {
-        "ka": ""
-      },
-      "content": {
-        "ka": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/hotel-gallery-palace/"
+        "ka": "https://ips.ge/project/hotel-gallery-palace/",
+        "en": "https://ips.ge/en/project/hotel-galleria-palace/"
       },
       "images": [
         "content/images/projectsgpalace.png"
@@ -6319,70 +4426,8 @@
         "interior"
       ],
       "date": "2024-06-28T03:41:34",
-      "image": "content/images/projectsgpalace.png"
-    },
-    {
-      "slug": "hotel-galleria-palace",
-      "kind": "project",
-      "title": {
-        "en": "Hotel Galleria Palace",
-        "ka": "Hotel Galleria Palace"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/hotel-galleria-palace/"
-      },
-      "images": [
-        "content/images/projectsgpalace.png"
-      ],
-      "featured_image": "content/images/projectsgpalace.png",
-      "categories": [
-        {
-          "id": 34,
-          "name": "Interior",
-          "slug": "%e1%83%98%e1%83%9c%e1%83%a2%e1%83%94%e1%83%a0%e1%83%98%e1%83%94%e1%83%a0%e1%83%98",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 35,
-          "name": "Interior Consulting",
-          "slug": "interior-consulting",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 36,
-          "name": "Interior Supply",
-          "slug": "interior-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 37,
-          "name": "Interior Installation",
-          "slug": "interior-installtions",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:41:34",
-      "image": "content/images/projectsgpalace.png"
+      "image": "content/images/projectsgpalace.png",
+      "name": "Hotel Galleria Palace"
     },
     {
       "slug": "hilton-batumi",
@@ -6458,16 +4503,24 @@
       "image": "content/images/projectshiltonbatumi.png"
     },
     {
-      "slug": "belle-vue-batumi-residence",
+      "slug": "bellevue-residence-batumi",
       "kind": "project",
       "title": {
         "ka": "ბელვიუ რეზიდენს ბათუმი",
-        "en": "ბელვიუ რეზიდენს ბათუმი"
+        "en": "Bellevue Residence Batumi"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -6482,70 +4535,8 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/bellevue-residence-batumi/",
         "ka": "https://ips.ge/project/belle-vue-batumi-residence/"
-      },
-      "images": [
-        "content/images/projects-1belle_vue.png"
-      ],
-      "featured_image": "content/images/projects-1belle_vue.png",
-      "categories": [
-        {
-          "id": 58,
-          "name": "ინტერიერი",
-          "slug": "interieri-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 59,
-          "name": "ინტერიერის საკონსულტაციო მომსახურება",
-          "slug": "interior-consulting-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 60,
-          "name": "ინტერიერის მასალების მიწოდება",
-          "slug": "interior-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 61,
-          "name": "ინტერიერის მასალების მონტაჟი",
-          "slug": "interior-installtions-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "interior"
-      ],
-      "date": "2024-06-28T03:38:55",
-      "image": "content/images/projects-1belle_vue.png"
-    },
-    {
-      "slug": "bellevue-residence-batumi",
-      "kind": "project",
-      "title": {
-        "en": "Bellevue Residence Batumi",
-        "ka": "Bellevue Residence Batumi"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/bellevue-residence-batumi/"
       },
       "images": [
         "content/images/projects-1belle_vue.png"
@@ -6581,7 +4572,8 @@
         "interior"
       ],
       "date": "2024-06-28T03:38:55",
-      "image": "content/images/projects-1belle_vue.png"
+      "image": "content/images/projects-1belle_vue.png",
+      "name": "Bellevue Residence Batumi"
     },
     {
       "slug": "wyndham-batumi",
@@ -6673,7 +4665,7 @@
       "kind": "project",
       "title": {
         "ka": "სასტუმრო Next White",
-        "en": "სასტუმრო Next White"
+        "en": "Hotel Next White"
       },
       "excerpt": {
         "ka": ""
@@ -6686,56 +4678,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/next-white/"
-      },
-      "images": [
-        "content/images/next-white.png"
-      ],
-      "featured_image": "content/images/next-white.png",
-      "categories": [
-        {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-28T02:05:58",
-      "image": "content/images/next-white.png"
-    },
-    {
-      "slug": "hotel-next-white",
-      "kind": "project",
-      "title": {
-        "en": "Hotel Next White",
-        "ka": "Hotel Next White"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -6750,6 +4693,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/next-white/",
         "en": "https://ips.ge/en/project/hotel-next-white/"
       },
       "images": [
@@ -6758,21 +4702,21 @@
       "featured_image": "content/images/next-white.png",
       "categories": [
         {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
+          "id": 54,
+          "name": "ფასადი",
+          "slug": "facade-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
+          "id": 56,
+          "name": "საფასადე მასალების მიწოდება",
+          "slug": "facade-supply-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
+          "id": 57,
+          "name": "საფასადე მასალების მონტაჟი",
+          "slug": "facade-installation-2",
           "taxonomy": "project-category"
         }
       ],
@@ -6780,20 +4724,29 @@
         "facade"
       ],
       "date": "2024-06-28T02:05:58",
-      "image": "content/images/next-white.png"
+      "image": "content/images/next-white.png",
+      "name": "Hotel Next White"
     },
     {
       "slug": "next-apartment",
       "kind": "project",
       "title": {
         "ka": "NEXT აპარტამენტები",
-        "en": "NEXT აპარტამენტები"
+        "en": "NEXT Apartments"
       },
       "excerpt": {
         "ka": ""
       },
       "content": {
         "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "en": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -6807,7 +4760,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/next-apartment/"
+        "ka": "https://ips.ge/project/next-apartment/",
+        "en": "https://ips.ge/en/project/next-apartments/"
       },
       "images": [
         "content/images/next-apartment.jpeg"
@@ -6837,64 +4791,8 @@
         "facade"
       ],
       "date": "2024-06-28T02:04:28",
-      "image": "content/images/next-apartment.jpeg"
-    },
-    {
-      "slug": "next-apartments",
-      "kind": "project",
-      "title": {
-        "en": "NEXT Apartments",
-        "ka": "NEXT Apartments"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/next-apartments/"
-      },
-      "images": [
-        "content/images/next-apartment.jpeg"
-      ],
-      "featured_image": "content/images/next-apartment.jpeg",
-      "categories": [
-        {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-28T02:04:28",
-      "image": "content/images/next-apartment.jpeg"
+      "image": "content/images/next-apartment.jpeg",
+      "name": "NEXT Apartments"
     },
     {
       "slug": "next-villa",
@@ -7020,16 +4918,24 @@
       "image": "content/images/m2-mirtskhulava.jpg"
     },
     {
-      "slug": "arcchi-varketili-ii-block",
+      "slug": "archi-varketli-ii-block",
       "kind": "project",
       "title": {
         "ka": "არქი ვარკეთილი II ბლოკი",
-        "en": "არქი ვარკეთილი II ბლოკი"
+        "en": "Archi Varketli II block"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -7044,6 +4950,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/archi-varketli-ii-block/",
         "ka": "https://ips.ge/project/arcchi-varketili-ii-block/"
       },
       "images": [
@@ -7052,63 +4959,6 @@
       "featured_image": "content/images/arqi-varketili-2.jpeg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-28T02:00:29",
-      "image": "content/images/arqi-varketili-2.jpeg"
-    },
-    {
-      "slug": "archi-varketli-ii-block",
-      "kind": "project",
-      "title": {
-        "en": "Archi Varketli II block",
-        "ka": "Archi Varketli II block"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/archi-varketli-ii-block/"
-      },
-      "images": [
-        "content/images/arqi-varketili-2.jpeg"
-      ],
-      "featured_image": "content/images/arqi-varketili-2.jpeg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -7131,14 +4981,15 @@
         "facade"
       ],
       "date": "2024-06-28T02:00:29",
-      "image": "content/images/arqi-varketili-2.jpeg"
+      "image": "content/images/arqi-varketili-2.jpeg",
+      "name": "Archi Varketli II block"
     },
     {
       "slug": "zugdidi-post",
       "kind": "project",
       "title": {
         "ka": "ზუგდიდის ფოსტა",
-        "en": "ზუგდიდის ფოსტა"
+        "en": "Zugdidi Post Office"
       },
       "excerpt": {
         "ka": ""
@@ -7151,56 +5002,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/zugdidi-post/"
-      },
-      "images": [
-        "content/images/zugdidi-post.jpeg"
-      ],
-      "featured_image": "content/images/zugdidi-post.jpeg",
-      "categories": [
-        {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-28T01:58:51",
-      "image": "content/images/zugdidi-post.jpeg"
-    },
-    {
-      "slug": "zugdidi-post-office",
-      "kind": "project",
-      "title": {
-        "en": "Zugdidi Post Office",
-        "ka": "Zugdidi Post Office"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -7215,6 +5017,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/zugdidi-post/",
         "en": "https://ips.ge/en/project/zugdidi-post-office/"
       },
       "images": [
@@ -7223,63 +5026,6 @@
       "featured_image": "content/images/zugdidi-post.jpeg",
       "categories": [
         {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-28T01:58:51",
-      "image": "content/images/zugdidi-post.jpeg"
-    },
-    {
-      "slug": "komertsiuli-shenoba-aghmashe",
-      "kind": "project",
-      "title": {
-        "ka": "კომერციული შენობა აღმაშენებლის ხეივანზე",
-        "en": "კომერციული შენობა აღმაშენებლის ხეივანზე"
-      },
-      "excerpt": {
-        "ka": ""
-      },
-      "content": {
-        "ka": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/komertsiuli-shenoba-aghmashe/"
-      },
-      "images": [
-        "content/images/commercial-building-agmashenebeli.png"
-      ],
-      "featured_image": "content/images/commercial-building-agmashenebeli.png",
-      "categories": [
-        {
           "id": 54,
           "name": "ფასადი",
           "slug": "facade-2",
@@ -7301,20 +5047,29 @@
       "types": [
         "facade"
       ],
-      "date": "2024-06-28T01:55:43",
-      "image": "content/images/commercial-building-agmashenebeli.png"
+      "date": "2024-06-28T01:58:51",
+      "image": "content/images/zugdidi-post.jpeg",
+      "name": "Zugdidi Post Office"
     },
     {
-      "slug": "commercial-building-on-agmashenebeli-alley",
+      "slug": "komertsiuli-shenoba-aghmashe",
       "kind": "project",
       "title": {
-        "en": "Commercial building on Agmashenebeli alley",
-        "ka": "Commercial building on Agmashenebeli alley"
+        "ka": "კომერციული შენობა აღმაშენებლის ხეივანზე",
+        "en": "Commercial building on Agmashenebeli alley"
       },
       "excerpt": {
-        "en": ""
+        "ka": ""
       },
       "content": {
+        "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -7329,6 +5084,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/komertsiuli-shenoba-aghmashe/",
         "en": "https://ips.ge/en/project/commercial-building-on-agmashenebeli-alley/"
       },
       "images": [
@@ -7337,21 +5093,21 @@
       "featured_image": "content/images/commercial-building-agmashenebeli.png",
       "categories": [
         {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
+          "id": 54,
+          "name": "ფასადი",
+          "slug": "facade-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
+          "id": 56,
+          "name": "საფასადე მასალების მიწოდება",
+          "slug": "facade-supply-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
+          "id": 57,
+          "name": "საფასადე მასალების მონტაჟი",
+          "slug": "facade-installation-2",
           "taxonomy": "project-category"
         }
       ],
@@ -7359,20 +5115,29 @@
         "facade"
       ],
       "date": "2024-06-28T01:55:43",
-      "image": "content/images/commercial-building-agmashenebeli.png"
+      "image": "content/images/commercial-building-agmashenebeli.png",
+      "name": "Commercial building on Agmashenebeli alley"
     },
     {
       "slug": "kerdzo-sakhli-cqhnethshi",
       "kind": "project",
       "title": {
         "ka": "კერძო სახლი წყნეთში",
-        "en": "კერძო სახლი წყნეთში"
+        "en": "Private house in Tskneti"
       },
       "excerpt": {
         "ka": ""
       },
       "content": {
         "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "en": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -7386,7 +5151,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/kerdzo-sakhli-cqhnethshi/"
+        "ka": "https://ips.ge/project/kerdzo-sakhli-cqhnethshi/",
+        "en": "https://ips.ge/en/project/private-house-in-tskneti/"
       },
       "images": [
         "content/images/private-house-tskneti.png"
@@ -7416,14 +5182,15 @@
         "facade"
       ],
       "date": "2024-06-28T01:54:27",
-      "image": "content/images/private-house-tskneti.png"
+      "image": "content/images/private-house-tskneti.png",
+      "name": "Private house in Tskneti"
     },
     {
-      "slug": "private-house-in-tskneti",
+      "slug": "domus-chavchavadze-29",
       "kind": "project",
       "title": {
-        "en": "Private house in Tskneti",
-        "ka": "Private house in Tskneti"
+        "ka": "დომუსი ჭავჭავაძე 29",
+        "en": "Domus Chavchavadze 29"
       },
       "excerpt": {
         "en": ""
@@ -7436,56 +5203,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/private-house-in-tskneti/"
-      },
-      "images": [
-        "content/images/private-house-tskneti.png"
-      ],
-      "featured_image": "content/images/private-house-tskneti.png",
-      "categories": [
-        {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-28T01:54:27",
-      "image": "content/images/private-house-tskneti.png"
-    },
-    {
-      "slug": "domusi-chavchavadze-29",
-      "kind": "project",
-      "title": {
-        "ka": "დომუსი ჭავჭავაძე 29",
-        "en": "დომუსი ჭავჭავაძე 29"
-      },
-      "excerpt": {
-        "ka": ""
-      },
-      "content": {
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -7500,58 +5218,8 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/domus-chavchavadze-29/",
         "ka": "https://ips.ge/project/domusi-chavchavadze-29/"
-      },
-      "images": [
-        "content/images/ips.ge_domus-chavchavadze.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_domus-chavchavadze.jpg",
-      "categories": [
-        {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-28T01:53:07",
-      "image": "content/images/ips.ge_domus-chavchavadze.jpg"
-    },
-    {
-      "slug": "domus-chavchavadze-29",
-      "kind": "project",
-      "title": {
-        "en": "Domus Chavchavadze 29",
-        "ka": "Domus Chavchavadze 29"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/domus-chavchavadze-29/"
       },
       "images": [
         "content/images/ips.ge_domus-chavchavadze.jpg"
@@ -7575,7 +5243,8 @@
         "facade"
       ],
       "date": "2024-06-28T01:53:07",
-      "image": "content/images/ips.ge_domus-chavchavadze.jpg"
+      "image": "content/images/ips.ge_domus-chavchavadze.jpg",
+      "name": "Domus Chavchavadze 29"
     },
     {
       "slug": "moedani",
@@ -7663,16 +5332,24 @@
       "image": "content/images/ips.ge_moedani.jpg"
     },
     {
-      "slug": "phurtseladze",
+      "slug": "furtseladze",
       "kind": "project",
       "title": {
         "ka": "ფურცელაძე",
-        "en": "ფურცელაძე"
+        "en": "Furtseladze"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -7687,6 +5364,7 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/project/furtseladze/",
         "ka": "https://ips.ge/project/phurtseladze/"
       },
       "images": [
@@ -7695,63 +5373,6 @@
       "featured_image": "content/images/furceladze.jpeg",
       "categories": [
         {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-28T01:50:11",
-      "image": "content/images/furceladze.jpeg"
-    },
-    {
-      "slug": "furtseladze",
-      "kind": "project",
-      "title": {
-        "en": "Furtseladze",
-        "ka": "Furtseladze"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/furtseladze/"
-      },
-      "images": [
-        "content/images/furceladze.jpeg"
-      ],
-      "featured_image": "content/images/furceladze.jpeg",
-      "categories": [
-        {
           "id": 22,
           "name": "Facade",
           "slug": "facade",
@@ -7774,14 +5395,15 @@
         "facade"
       ],
       "date": "2024-06-28T01:50:11",
-      "image": "content/images/furceladze.jpeg"
+      "image": "content/images/furceladze.jpeg",
+      "name": "Furtseladze"
     },
     {
       "slug": "arqi-isani-d-block",
       "kind": "project",
       "title": {
         "ka": "არქი ისანი D ბლოკი",
-        "en": "არქი ისანი D ბლოკი"
+        "en": "Archi Isani D Block"
       },
       "excerpt": {
         "ka": ""
@@ -7794,62 +5416,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/arqi-isani-d-block/"
-      },
-      "images": [
-        "content/images/arqi-isani-d.jpg"
-      ],
-      "featured_image": "content/images/arqi-isani-d.jpg",
-      "categories": [
-        {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 55,
-          "name": "ფასადის პროექტირება",
-          "slug": "facadte-development-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-06T17:55:41",
-      "image": "content/images/arqi-isani-d.jpg"
-    },
-    {
-      "slug": "archi-isani-d-block",
-      "kind": "project",
-      "title": {
-        "en": "Archi Isani D Block",
-        "ka": "Archi Isani D Block"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -7864,6 +5431,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/arqi-isani-d-block/",
         "en": "https://ips.ge/en/project/archi-isani-d-block/"
       },
       "images": [
@@ -7872,27 +5440,27 @@
       "featured_image": "content/images/arqi-isani-d.jpg",
       "categories": [
         {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
+          "id": 54,
+          "name": "ფასადი",
+          "slug": "facade-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 31,
-          "name": "Facade Project",
-          "slug": "facadte-development",
+          "id": 55,
+          "name": "ფასადის პროექტირება",
+          "slug": "facadte-development-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
+          "id": 56,
+          "name": "საფასადე მასალების მიწოდება",
+          "slug": "facade-supply-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
+          "id": 57,
+          "name": "საფასადე მასალების მონტაჟი",
+          "slug": "facade-installation-2",
           "taxonomy": "project-category"
         }
       ],
@@ -7900,20 +5468,29 @@
         "facade"
       ],
       "date": "2024-06-06T17:55:41",
-      "image": "content/images/arqi-isani-d.jpg"
+      "image": "content/images/arqi-isani-d.jpg",
+      "name": "Archi Isani D Block"
     },
     {
       "slug": "arqi-varketili-a-block",
       "kind": "project",
       "title": {
         "ka": "არქი ვარკეთლი A ბლოკი",
-        "en": "არქი ვარკეთლი A ბლოკი"
+        "en": "Archi Varketli A block"
       },
       "excerpt": {
         "ka": ""
       },
       "content": {
         "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "en": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -7927,7 +5504,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/arqi-varketili-a-block/"
+        "ka": "https://ips.ge/project/arqi-varketili-a-block/",
+        "en": "https://ips.ge/en/project/archi-varketli-a-block/"
       },
       "images": [
         "content/images/arqi-varketili-a.jpeg"
@@ -7957,19 +5535,28 @@
         "facade"
       ],
       "date": "2024-06-06T17:53:52",
-      "image": "content/images/arqi-varketili-a.jpeg"
+      "image": "content/images/arqi-varketili-a.jpeg",
+      "name": "Archi Varketli A block"
     },
     {
-      "slug": "archi-varketli-a-block",
+      "slug": "arqi-varketili-d-block",
       "kind": "project",
       "title": {
-        "en": "Archi Varketli A block",
-        "ka": "Archi Varketli A block"
+        "ka": "არქი ვარკეთილი D ბლოკი",
+        "en": "Archi Varketeli D block"
       },
       "excerpt": {
-        "en": ""
+        "ka": ""
       },
       "content": {
+        "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -7984,64 +5571,8 @@
         "en": {}
       },
       "urls": {
-        "en": "https://ips.ge/en/project/archi-varketli-a-block/"
-      },
-      "images": [
-        "content/images/arqi-varketili-a.jpeg"
-      ],
-      "featured_image": "content/images/arqi-varketili-a.jpeg",
-      "categories": [
-        {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-06T17:53:52",
-      "image": "content/images/arqi-varketili-a.jpeg"
-    },
-    {
-      "slug": "arqi-varketili-d-block",
-      "kind": "project",
-      "title": {
-        "ka": "არქი ვარკეთილი D ბლოკი",
-        "en": "არქი ვარკეთილი D ბლოკი"
-      },
-      "excerpt": {
-        "ka": ""
-      },
-      "content": {
-        "ka": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/arqi-varketili-d-block/"
+        "ka": "https://ips.ge/project/arqi-varketili-d-block/",
+        "en": "https://ips.ge/en/project/archi-varketeli-d-block/"
       },
       "images": [
         "content/images/arqi-varketili-d.jpeg"
@@ -8077,70 +5608,8 @@
         "facade"
       ],
       "date": "2024-06-06T16:17:10",
-      "image": "content/images/arqi-varketili-d.jpeg"
-    },
-    {
-      "slug": "archi-varketeli-d-block",
-      "kind": "project",
-      "title": {
-        "en": "Archi Varketeli D block",
-        "ka": "Archi Varketeli D block"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/archi-varketeli-d-block/"
-      },
-      "images": [
-        "content/images/arqi-varketili-d.jpeg"
-      ],
-      "featured_image": "content/images/arqi-varketili-d.jpeg",
-      "categories": [
-        {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 31,
-          "name": "Facade Project",
-          "slug": "facadte-development",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-06T16:17:10",
-      "image": "content/images/arqi-varketili-d.jpeg"
+      "image": "content/images/arqi-varketili-d.jpeg",
+      "name": "Archi Varketeli D block"
     },
     {
       "slug": "arqi-saburtalo-d-block",
@@ -8232,13 +5701,21 @@
       "kind": "project",
       "title": {
         "ka": "არქტური",
-        "en": "არქტური"
+        "en": "Arctur"
       },
       "excerpt": {
         "ka": ""
       },
       "content": {
         "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "en": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -8252,7 +5729,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/arqtur/"
+        "ka": "https://ips.ge/project/arqtur/",
+        "en": "https://ips.ge/en/project/arctur/"
       },
       "images": [
         "content/images/ips.ge_arqturi.jpg"
@@ -8288,77 +5766,15 @@
         "facade"
       ],
       "date": "2024-06-06T16:12:50",
-      "image": "content/images/ips.ge_arqturi.jpg"
-    },
-    {
-      "slug": "arctur",
-      "kind": "project",
-      "title": {
-        "en": "Arctur",
-        "ka": "Arctur"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/arctur/"
-      },
-      "images": [
-        "content/images/ips.ge_arqturi.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_arqturi.jpg",
-      "categories": [
-        {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 31,
-          "name": "Facade Project",
-          "slug": "facadte-development",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-06T16:12:50",
-      "image": "content/images/ips.ge_arqturi.jpg"
+      "image": "content/images/ips.ge_arqturi.jpg",
+      "name": "Arctur"
     },
     {
       "slug": "arqi-saburtalo-c-block",
       "kind": "project",
       "title": {
         "ka": "არქი საბურთალო C ბლოკი",
-        "en": "არქი საბურთალო C ბლოკი"
+        "en": "Archi Saburtalo C block"
       },
       "excerpt": {
         "ka": ""
@@ -8371,56 +5787,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/project/arqi-saburtalo-c-block/"
-      },
-      "images": [
-        "content/images/ips.ge_archi-saburtalo-c-block.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_archi-saburtalo-c-block.jpg",
-      "categories": [
-        {
-          "id": 54,
-          "name": "ფასადი",
-          "slug": "facade-2",
-          "taxonomy": "project-category"
         },
-        {
-          "id": 56,
-          "name": "საფასადე მასალების მიწოდება",
-          "slug": "facade-supply-2",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 57,
-          "name": "საფასადე მასალების მონტაჟი",
-          "slug": "facade-installation-2",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-06T16:10:53",
-      "image": "content/images/ips.ge_archi-saburtalo-c-block.jpg"
-    },
-    {
-      "slug": "archi-saburtalo-c-block",
-      "kind": "project",
-      "title": {
-        "en": "Archi Saburtalo C block",
-        "ka": "Archi Saburtalo C block"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -8435,6 +5802,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/project/arqi-saburtalo-c-block/",
         "en": "https://ips.ge/en/project/archi-saburtalo-c-block/"
       },
       "images": [
@@ -8443,21 +5811,21 @@
       "featured_image": "content/images/ips.ge_archi-saburtalo-c-block.jpg",
       "categories": [
         {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
+          "id": 54,
+          "name": "ფასადი",
+          "slug": "facade-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
+          "id": 56,
+          "name": "საფასადე მასალების მიწოდება",
+          "slug": "facade-supply-2",
           "taxonomy": "project-category"
         },
         {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
+          "id": 57,
+          "name": "საფასადე მასალების მონტაჟი",
+          "slug": "facade-installation-2",
           "taxonomy": "project-category"
         }
       ],
@@ -8465,20 +5833,29 @@
         "facade"
       ],
       "date": "2024-06-06T16:10:53",
-      "image": "content/images/ips.ge_archi-saburtalo-c-block.jpg"
+      "image": "content/images/ips.ge_archi-saburtalo-c-block.jpg",
+      "name": "Archi Saburtalo C block"
     },
     {
       "slug": "arqi-saburtalo-b-block",
       "kind": "project",
       "title": {
         "ka": "არქი საბურთალო B ბლოკი",
-        "en": "არქი საბურთალო B ბლოკი"
+        "en": "Archi Saburtalo B block"
       },
       "excerpt": {
         "ka": ""
       },
       "content": {
         "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "en": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -8492,7 +5869,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/arqi-saburtalo-b-block/"
+        "ka": "https://ips.ge/project/arqi-saburtalo-b-block/",
+        "en": "https://ips.ge/en/project/archi-saburtalo-b-block/"
       },
       "images": [
         "content/images/ips.ge_archi-saburtalo-b-block.jpg"
@@ -8522,64 +5900,8 @@
         "facade"
       ],
       "date": "2024-06-06T16:08:58",
-      "image": "content/images/ips.ge_archi-saburtalo-b-block.jpg"
-    },
-    {
-      "slug": "archi-saburtalo-b-block",
-      "kind": "project",
-      "title": {
-        "en": "Archi Saburtalo B block",
-        "ka": "Archi Saburtalo B block"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/archi-saburtalo-b-block/"
-      },
-      "images": [
-        "content/images/ips.ge_archi-saburtalo-b-block.jpg"
-      ],
-      "featured_image": "content/images/ips.ge_archi-saburtalo-b-block.jpg",
-      "categories": [
-        {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 33,
-          "name": "Facade Installation",
-          "slug": "facade-installation",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-06T16:08:58",
-      "image": "content/images/ips.ge_archi-saburtalo-b-block.jpg"
+      "image": "content/images/ips.ge_archi-saburtalo-b-block.jpg",
+      "name": "Archi Saburtalo B block"
     },
     {
       "slug": "hotel-astoria-tbilisi",
@@ -8768,13 +6090,21 @@
       "kind": "project",
       "title": {
         "ka": "ბათუმის რესპუბლიკური კლინიკური საავადმყოფო",
-        "en": "ბათუმის რესპუბლიკური კლინიკური საავადმყოფო"
+        "en": "Batumi Republican Clinical Hospital"
       },
       "excerpt": {
         "ka": ""
       },
       "content": {
         "ka": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
+        "en": {
           "paragraphs": [],
           "headings": [],
           "lists": [],
@@ -8788,7 +6118,8 @@
         "en": {}
       },
       "urls": {
-        "ka": "https://ips.ge/project/batumi-republic-clinic/"
+        "ka": "https://ips.ge/project/batumi-republic-clinic/",
+        "en": "https://ips.ge/en/project/batumi-republican-clinical-hospital/"
       },
       "images": [
         "content/images/batumi-clinic.png"
@@ -8812,58 +6143,8 @@
         "facade"
       ],
       "date": "2024-06-06T15:48:53",
-      "image": "content/images/batumi-clinic.png"
-    },
-    {
-      "slug": "batumi-republican-clinical-hospital",
-      "kind": "project",
-      "title": {
-        "en": "Batumi Republican Clinical Hospital",
-        "ka": "Batumi Republican Clinical Hospital"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/project/batumi-republican-clinical-hospital/"
-      },
-      "images": [
-        "content/images/batumi-clinic.png"
-      ],
-      "featured_image": "content/images/batumi-clinic.png",
-      "categories": [
-        {
-          "id": 22,
-          "name": "Facade",
-          "slug": "facade",
-          "taxonomy": "project-category"
-        },
-        {
-          "id": 32,
-          "name": "Facade Supply",
-          "slug": "facade-supply",
-          "taxonomy": "project-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2024-06-06T15:48:53",
-      "image": "content/images/batumi-clinic.png"
+      "image": "content/images/batumi-clinic.png",
+      "name": "Batumi Republican Clinical Hospital"
     },
     {
       "slug": "batumi-sports-palace",
@@ -9168,15 +6449,24 @@
       "image": "content/images/ips.ge_moduleo.png"
     },
     {
-      "slug": "biesi-building-solutions",
+      "slug": "bs-building-solutions",
       "kind": "brand",
       "title": {
-        "ka": "ბიესი (Building Solutions)"
+        "ka": "ბიესი (Building Solutions)",
+        "en": "BS (Building Solutions)"
       },
       "excerpt": {
-        "ka": ""
+        "en": ""
       },
       "content": {
+        "en": {
+          "paragraphs": [],
+          "headings": [],
+          "lists": [],
+          "images": [],
+          "html": "",
+          "text": ""
+        },
         "ka": {
           "paragraphs": [],
           "headings": [],
@@ -9191,53 +6481,8 @@
         "en": {}
       },
       "urls": {
+        "en": "https://ips.ge/en/brand/bs-building-solutions/",
         "ka": "https://ips.ge/brand/biesi-building-solutions/"
-      },
-      "images": [
-        "content/images/ips.ge_bs.png"
-      ],
-      "featured_image": "content/images/ips.ge_bs.png",
-      "categories": [
-        {
-          "id": 21,
-          "name": "FACADE",
-          "slug": "facade",
-          "taxonomy": "brand-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2025-07-22T14:41:59",
-      "name": "ბიესი (Building Solutions)",
-      "logo": "content/images/ips.ge_bs.png",
-      "image": "content/images/ips.ge_bs.png"
-    },
-    {
-      "slug": "bs-building-solutions",
-      "kind": "brand",
-      "title": {
-        "en": "BS (Building Solutions)"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
-        "en": {
-          "paragraphs": [],
-          "headings": [],
-          "lists": [],
-          "images": [],
-          "html": "",
-          "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "en": "https://ips.ge/en/brand/bs-building-solutions/"
       },
       "images": [
         "content/images/ips.ge_bs.png"
@@ -9377,7 +6622,8 @@
       "slug": "alternativa",
       "kind": "brand",
       "title": {
-        "ka": "ALTERNATIVA"
+        "ka": "ALTERNATIVA",
+        "en": "ALTERNATIVA"
       },
       "excerpt": {
         "ka": ""
@@ -9390,45 +6636,7 @@
           "images": [],
           "html": "",
           "text": ""
-        }
-      },
-      "fields": {
-        "ka": {},
-        "en": {}
-      },
-      "urls": {
-        "ka": "https://ips.ge/brand/alternativa/"
-      },
-      "images": [
-        "content/images/ips.ge_alternativa.png"
-      ],
-      "featured_image": "content/images/ips.ge_alternativa.png",
-      "categories": [
-        {
-          "id": 21,
-          "name": "FACADE",
-          "slug": "facade",
-          "taxonomy": "brand-category"
-        }
-      ],
-      "types": [
-        "facade"
-      ],
-      "date": "2025-06-24T17:53:54",
-      "name": "ALTERNATIVA",
-      "logo": "content/images/ips.ge_alternativa.png",
-      "image": "content/images/ips.ge_alternativa.png"
-    },
-    {
-      "slug": "alternative",
-      "kind": "brand",
-      "title": {
-        "en": "ALTERNATIVE"
-      },
-      "excerpt": {
-        "en": ""
-      },
-      "content": {
+        },
         "en": {
           "paragraphs": [],
           "headings": [],
@@ -9443,6 +6651,7 @@
         "en": {}
       },
       "urls": {
+        "ka": "https://ips.ge/brand/alternativa/",
         "en": "https://ips.ge/en/brand/alternative/"
       },
       "images": [
@@ -9461,7 +6670,7 @@
         "facade"
       ],
       "date": "2025-06-24T17:53:54",
-      "name": "ALTERNATIVE",
+      "name": "ALTERNATIVA",
       "logo": "content/images/ips.ge_alternativa.png",
       "image": "content/images/ips.ge_alternativa.png"
     },
@@ -15037,8 +12246,8 @@
     }
   ],
   "stats": {
-    "projects": 141,
-    "brands": 44,
+    "projects": 82,
+    "brands": 42,
     "posts": 38,
     "pages": 26
   }

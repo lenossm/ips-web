@@ -45,6 +45,11 @@
 			header.classList.remove("is-open");
 			toggle.setAttribute("aria-expanded", "false");
 			mobileNav.classList.remove("is-visible");
+			mobileNav.querySelectorAll(".has-children.is-open, .menu-item-has-children.is-open").forEach((item) => {
+				item.classList.remove("is-open");
+				const parentLink = item.querySelector(":scope > a");
+				if (parentLink) parentLink.setAttribute("aria-expanded", "false");
+			});
 			window.setTimeout(() => {
 				if (!header.classList.contains("is-open")) mobileNav.hidden = true;
 			}, 400);
@@ -64,8 +69,41 @@
 			else openNav();
 		});
 
+		/* accordion: tap parent to open kids, don't leave the page */
+		mobileNav.querySelectorAll(".has-children, .menu-item-has-children").forEach((item) => {
+			const link = item.querySelector(":scope > a");
+			const sub = item.querySelector(":scope > .sub-menu");
+			if (!link || !sub) return;
+
+			link.setAttribute("aria-expanded", "false");
+			link.addEventListener("click", (event) => {
+				event.preventDefault();
+				const open = item.classList.contains("is-open");
+				mobileNav
+					.querySelectorAll(".has-children.is-open, .menu-item-has-children.is-open")
+					.forEach((other) => {
+						if (other === item) return;
+						other.classList.remove("is-open");
+						const otherLink = other.querySelector(":scope > a");
+						if (otherLink) otherLink.setAttribute("aria-expanded", "false");
+					});
+				item.classList.toggle("is-open", !open);
+				link.setAttribute("aria-expanded", open ? "false" : "true");
+			});
+		});
+
 		mobileNav.querySelectorAll("a").forEach((link) => {
-			link.addEventListener("click", closeNav);
+			link.addEventListener("click", (event) => {
+				const parent = link.parentElement;
+				if (parent?.classList.contains("has-children") || parent?.classList.contains("menu-item-has-children")) {
+					return;
+				}
+				if (link.getAttribute("href") === "#") {
+					event.preventDefault();
+					return;
+				}
+				closeNav();
+			});
 		});
 
 		window.addEventListener("keydown", (event) => {

@@ -352,6 +352,11 @@ def main() -> None:
     print("Wrote", OUT)
     print(json.dumps(site["stats"], indent=2))
 
+    # fold ka/en doubles that share one image
+    from dedupe_content import main as dedupe_main
+
+    dedupe_main()
+
 
 if __name__ == "__main__":
     main()
