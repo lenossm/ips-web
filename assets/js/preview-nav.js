@@ -1,8 +1,10 @@
-/* tiny helpers for the static preview pages */
+/* filters on project / brand grids */
 
 (() => {
 	document.querySelectorAll("[data-filter-bar]").forEach((bar) => {
-		const grid = bar.parentElement?.querySelector("[data-filter-grid]") || document.querySelector("[data-filter-grid]");
+		const grid =
+			bar.parentElement?.querySelector("[data-filter-grid]") ||
+			document.querySelector("[data-filter-grid]");
 		if (!grid) return;
 
 		bar.addEventListener("click", (event) => {
@@ -27,15 +29,13 @@
 						if (card.classList.contains("is-filtering-out")) {
 							card.classList.add("is-hidden-filter");
 						}
-					}, 280);
+					}, 240);
 				}
 			});
 		});
 	});
 
-	/* if the url has ?type=interior etc, click that filter for me */
-	const params = new URLSearchParams(window.location.search);
-	const type = params.get("type");
+	const type = new URLSearchParams(window.location.search).get("type");
 	if (type) {
 		const btn = document.querySelector(`[data-filter-bar] [data-filter="${type}"]`);
 		if (btn) btn.click();

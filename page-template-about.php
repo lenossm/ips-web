@@ -64,12 +64,13 @@ $contact = $about['contact'] ?? [];
 
 	<section class="content-section" id="contact">
 		<div class="container">
-			<h2><?php echo esc_html(ips_t('nav_contact')); ?></h2>
+			<h2 class="section-title"><?php echo esc_html(ips_t('nav_contact')); ?></h2>
 			<address class="contact-block">
 				<p><?php echo esc_html((string) ($contact['address'] ?? ips_t('address'))); ?></p>
 				<p><a href="tel:+995322252424"><?php echo esc_html((string) ($contact['phone'] ?? ips_t('phone'))); ?></a></p>
 				<p><a href="mailto:<?php echo esc_attr((string) ($contact['email'] ?? ips_t('email'))); ?>"><?php echo esc_html((string) ($contact['email'] ?? ips_t('email'))); ?></a></p>
 			</address>
+			<?php get_template_part('template-parts/contact', 'form'); ?>
 		</div>
 	</section>
 </main>

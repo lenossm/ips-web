@@ -1,6 +1,5 @@
 <?php
-/* IPS theme — setup, assets, helpers
-   if something breaks check here first lol */
+/* IPS theme — setup, assets, helpers */
 
 declare(strict_types=1);
 
@@ -8,7 +7,7 @@ if (!defined('ABSPATH')) {
 	exit;
 }
 
-define('IPS_VERSION', '1.2.0');
+define('IPS_VERSION', '1.3.0');
 define('IPS_DIR', get_template_directory());
 define('IPS_URI', get_template_directory_uri());
 
@@ -247,25 +246,35 @@ add_filter('body_class', 'ips_body_classes');
 
 /* fallback menu if nothing is assigned yet */
 function ips_fallback_menu(): void {
+	$services = home_url('/services/');
 	$items = [
-		['nav_interior', home_url('/interior/')],
-		['nav_facade', home_url('/facade/')],
-		['nav_services', home_url('/services/')],
+		['nav_interior', $services . '#interior'],
+		['nav_facade', $services . '#facade'],
+		['nav_services', $services],
 		['nav_projects', get_post_type_archive_link('project') ?: home_url('/project/')],
 		['nav_about', home_url('/about-us/')],
-		['nav_news', home_url('/blog/')],
+		['nav_news', home_url('/news-blogs/')],
 	];
 
 	echo '<ul class="nav-list">';
 	foreach ($items as [$key, $url]) {
 		printf(
-			'<li class="nav-list__item"><a class="nav-list__link" href="%s">%s</a></li>',
+			'<li><a href="%s">%s</a></li>',
 			esc_url($url),
 			esc_html(ips_t($key))
 		);
 	}
 	echo '</ul>';
 }
+
+/* so desktop dropdown css can target wp menus too */
+function ips_menu_item_classes(array $classes, $item, $args, int $depth = 0): array {
+	if (in_array('menu-item-has-children', $classes, true)) {
+		$classes[] = 'has-children';
+	}
+	return $classes;
+}
+add_filter('nav_menu_css_class', 'ips_menu_item_classes', 10, 4);
 
 function ips_excerpt_length(int $length): int {
 	return 22;

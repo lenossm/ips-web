@@ -38,8 +38,8 @@ $contact = $about['contact'] ?? [];
 		<div class="site-footer__social">
 			<p class="site-footer__label"><?php echo esc_html(ips_t('social')); ?></p>
 			<ul class="social-list">
-				<li><a href="https://www.facebook.com/" rel="noopener noreferrer" target="_blank">Facebook</a></li>
-				<li><a href="https://www.instagram.com/" rel="noopener noreferrer" target="_blank">Instagram</a></li>
+				<li><a href="https://www.facebook.com/ips.ge" rel="noopener noreferrer" target="_blank">Facebook</a></li>
+				<li><a href="https://www.instagram.com/ips.ge" rel="noopener noreferrer" target="_blank">Instagram</a></li>
 				<li><a href="https://www.linkedin.com/company/ips-interior-facade" rel="noopener noreferrer" target="_blank">LinkedIn</a></li>
 			</ul>
 		</div>

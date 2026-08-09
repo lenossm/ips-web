@@ -1,20 +1,16 @@
-/* page transitions + contact form
-   the curtain thing is dramatic on purpose */
+/* page curtain + contact form */
 
 (() => {
 	const curtain = document.querySelector("[data-page-transition]");
 	const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-	/* open the curtain when the page lands */
 	if (curtain && !reduce) {
 		curtain.classList.add("is-covering");
 		requestAnimationFrame(() => {
 			requestAnimationFrame(() => {
 				curtain.classList.remove("is-covering");
 				curtain.classList.add("is-revealing");
-				window.setTimeout(() => {
-					curtain.classList.remove("is-revealing");
-				}, 780);
+				window.setTimeout(() => curtain.classList.remove("is-revealing"), 620);
 			});
 		});
 	}
@@ -28,7 +24,7 @@
 		curtain.classList.add("is-covering");
 		window.setTimeout(() => {
 			window.location.href = href;
-		}, 700);
+		}, 560);
 	};
 
 	document.addEventListener("click", (event) => {
@@ -51,20 +47,10 @@
 		if (url.origin !== window.location.origin) return;
 		if (url.pathname === window.location.pathname && url.hash) return;
 
-		const isInternal =
-			url.href.endsWith(".html") ||
-			url.href.includes(".html#") ||
-			url.href.includes(".html?") ||
-			(!href.startsWith("http") && !href.startsWith("//")) ||
-			url.origin === window.location.origin;
-
-		if (!isInternal) return;
-
 		event.preventDefault();
 		goTo(url.href);
 	});
 
-	/* form → FormSubmit, keeps it simple */
 	document.querySelectorAll("[data-contact-form]").forEach((form) => {
 		form.addEventListener("submit", async (event) => {
 			event.preventDefault();

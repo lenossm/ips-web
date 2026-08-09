@@ -2,7 +2,7 @@
 
 This is the website for IPS — interior and facade stuff. It's a WordPress theme I built, plus a second block-theme version if you'd rather click things together instead of touching code.
 
-Two languages, Georgian and English. Dark look, big hero, smooth page transitions. Nothing too crazy under the hood.
+Two languages, Georgian and English. Dark look, big hero, smooth page transitions.
 
 ## What's in here
 

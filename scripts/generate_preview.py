@@ -156,8 +156,8 @@ def footer(lang: str) -> str:
     <div class="site-footer__social">
       <p class="site-footer__label">{'სოციალური მედია' if lang=='ka' else 'Social media'}</p>
       <ul class="social-list">
-        <li><a href="https://www.facebook.com/" target="_blank" rel="noopener">Facebook</a></li>
-        <li><a href="https://www.instagram.com/" target="_blank" rel="noopener">Instagram</a></li>
+        <li><a href="https://www.facebook.com/ips.ge" target="_blank" rel="noopener">Facebook</a></li>
+        <li><a href="https://www.instagram.com/ips.ge" target="_blank" rel="noopener">Instagram</a></li>
         <li><a href="https://www.linkedin.com/company/ips-interior-facade" target="_blank" rel="noopener">LinkedIn</a></li>
       </ul>
     </div>
@@ -325,13 +325,13 @@ def home_page(lang: str) -> str:
   <div class="hero__media" aria-hidden="true"><div class="hero__image"></div><div class="hero__veil"></div><div class="hero__grid"></div></div>
   <div class="hero__frame" aria-hidden="true"></div>
   <div class="hero__content">
-    <p class="hero__brand" data-reveal-item>IPS</p>
+    <p class="hero__brand">IPS</p>
     <div class="hero__rule" aria-hidden="true"></div>
     <h1 class="hero__title" data-reveal-item>{e(h['hero_title'])}</h1>
     <p class="hero__lead" data-reveal-item>{e(h['hero_lead'])}</p>
     <div class="hero__actions" data-reveal-item>
       <a class="btn btn--light" href="{projects_href}">{e(h['cta_projects'])}</a>
-      <a class="btn btn--ghost" href="#directions">{'სერვისები' if lang=='ka' else 'Services'}</a>
+      <a class="btn btn--ghost" href="{services_href}">{'სერვისები' if lang=='ka' else 'Services'}</a>
     </div>
   </div>
   <div class="hero__meta" aria-hidden="true"><span>{'თბილისი' if lang=='ka' else 'Tbilisi'}</span><span>2016</span></div>
@@ -346,7 +346,7 @@ def home_page(lang: str) -> str:
         <span class="direction__eyebrow">{'IPS ინტერიერი' if lang=='ka' else 'IPS Interior'}</span>
         <span class="direction__title">{e(h['interior_title'])}</span>
         <span class="direction__lead">{e(h['interior_lead'])}</span>
-        <span class="direction__cta">{e(h['cta_projects'])}</span>
+        <span class="direction__cta">{'სერვისები' if lang=='ka' else 'Services'}</span>
       </span>
     </a>
     <a class="direction direction--facade" href="{services_href}#facade" data-reveal>
@@ -355,7 +355,7 @@ def home_page(lang: str) -> str:
         <span class="direction__eyebrow">{'IPS ფასადი' if lang=='ka' else 'IPS Facade'}</span>
         <span class="direction__title">{e(h['facade_title'])}</span>
         <span class="direction__lead">{e(h['facade_lead'])}</span>
-        <span class="direction__cta">{e(h['cta_projects'])}</span>
+        <span class="direction__cta">{'სერვისები' if lang=='ka' else 'Services'}</span>
       </span>
     </a>
   </div>
@@ -383,12 +383,12 @@ def home_page(lang: str) -> str:
   <div class="container projects-strip__track">{''.join(project_card(p, lang) for p in featured)}</div>
 </section>
 
-<section class="projects-strip" data-reveal>
+<section class="news-strip" data-reveal>
   <div class="container projects-strip__head">
     <h2 class="section-title">{'სიახლე და ბლოგი' if lang=='ka' else 'News & Blog'}</h2>
     <a class="text-link" href="{news_href}">{'ყველა' if lang=='ka' else 'View all'}</a>
   </div>
-  <div class="container post-list" style="padding-bottom:4rem">{''.join(post_card(p, lang) for p in posts)}</div>
+  <div class="container post-list">{''.join(post_card(p, lang) for p in posts)}</div>
 </section>
 
 <section class="cta-band" id="contact" data-reveal>

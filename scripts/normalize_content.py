@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# cleans up the scraped json into a ka/en content pack
+# cleans up the raw json into a ka/en content pack
 
 from __future__ import annotations
 

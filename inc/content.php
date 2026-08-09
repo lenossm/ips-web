@@ -42,6 +42,11 @@ function ips_content_brands(): array {
 	return is_array($site['brands'] ?? null) ? $site['brands'] : [];
 }
 
+function ips_content_posts(): array {
+	$site = ips_site_content();
+	return is_array($site['posts'] ?? null) ? $site['posts'] : [];
+}
+
 function ips_project_title(array $project): string {
 	$lang = ips_is_en() ? 'en' : 'ka';
 	$title = $project['title'][$lang] ?? $project['title']['en'] ?? $project['slug'] ?? '';

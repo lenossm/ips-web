@@ -70,7 +70,7 @@
 		wp_nav_menu([
 			'theme_location' => 'primary',
 			'container'      => false,
-			'menu_class'     => 'mobile-nav__list',
+			'menu_class'     => 'nav-list',
 			'fallback_cb'    => 'ips_fallback_menu',
 			'depth'          => 2,
 		]);
